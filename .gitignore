@@ -1,0 +1,16 @@
+# Ne pas envoyer les dossiers inutiles
+node_modules/
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.DS_Store
+.env
+secrets.toml
+historique.json
+analyzed_mails.json
+
+
