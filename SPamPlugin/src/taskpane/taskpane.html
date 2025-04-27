@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Détecteur de SPAM</title>
+  <link href="./taskpane.css" rel="stylesheet" />
+</head>
+<body>
+  <h1>🛡️ Analyse de mail</h1>
+
+  <textarea id="mailContent" placeholder="Collez ici le contenu du mail..." rows="10"></textarea>
+  <button id="analyzeBtn" class="primary-btn">Analyser le contenu collé</button>
+
+  <button id="analyzeLatestBtn" class="secondary-btn">📥 Importer & Analyser les 5 derniers mails</button>
+
+  <div id="loading" class="hidden">⏳ Analyse en cours...</div>
+
+  <div id="result"></div>
+  <div id="history-section">
+    <h2>📜 Historique des analyses</h2>
+    <div id="history"></div>
+  </div>
+
+  <script src="./taskpane.js"></script>
+</body>
+</html>

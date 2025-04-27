@@ -1,0 +1,971 @@
+From: Reddit <noreply@redditmail.com>
+Subject: "Anime_irl"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!-- MonitorCampaignID: email_digest -->
+
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="format-detection" content="date=no" />
+<meta name="format-detection" content="address=no" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="x-apple-disable-message-reformatting" />
+<!--[if !mso]><!-->
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+<!--<![endif]-->
+<title>Reddit</title>
+<!--[if gte mso 9]>
+<style type="text/css" media="all">
+sup { font-size: 100% !important; }
+</style>
+<![endif]-->
+
+
+<style type="text/css" media="screen">
+body { padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none }
+a { color:#ff0000; text-decoration:none }
+p { padding:0 !important; margin:0 !important }
+img { margin: 0 !important; -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+#MessageViewBody, #MessageWebViewDiv { width: 100% !important; } /* Samsung Galaxy Note 4 Samsung Mail - make email stay centered */
+
+.btn-14 a { display: block; padding: 9px 30px; text-decoration: none; }
+
+.mobile-only {
+display: none;
+}
+
+.c-white a { color: #ffffff; }
+.c-primary a { color: #0F1A1C; }
+.c-grey a { color: #313e42; }
+.c-dkgrey a { color: #7A9299; }
+.c-lggrey a { color: #809399; }
+.c-dgrey a { color: #687981; }
+.c-black a { color: #121212; }
+.c-dark a { color: #222222; }
+.c-dark-2 a { color: #333D42; }
+.c-dark-3 a { color: #1B2426; }
+.c-dark-4 a { color: #5C6C74; }
+.c-dark-5 a { color: #2A3C42; }
+.c-dark-6 a { color: #000001; }
+.c-orange a { color: #ff4500; }
+
+/* Mobile styles */
+@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+.hidem { display: none !important; }
+
+.mpx-20 { padding-left: 20px !important; padding-right: 20px !important; }
+
+.mpx-18 { padding-left: 18px !important; padding-right: 18px !important; }
+
+.mpb-17 { padding-bottom: 17px !important; }
+
+.mpr-17 { padding-right: 17px !important; }
+
+.mfz-24 { font-size: 24px !important; }
+
+.mlh-28 { line-height: 28px !important; }
+
+.mfz-12 { font-size: 12px !important; }
+
+.mlh-16 { line-height: 16px !important; }
+
+.mpx-16 { padding-left: 16px !important; padding-right: 16px !important; }
+
+.mpy-16 { padding-top: 16px !important; padding-bottom: 16px !important; }
+
+.mfz-14 { font-size: 14px !important; }
+
+.mpb-11 { padding-bottom: 11px !important; }
+
+.mpx-12 { padding-left: 12px !important; padding-right: 12px !important; }
+
+.td,
+.m-shell { width: 100% !important; min-width: 100% !important; }
+
+.mt-left { text-align: left !important; justify-content: flex-start !important; }
+
+.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+.mobile-image { display: block !important; width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+.column,
+.column-top { float: left !important; width: 100% !important; display: block !important; }
+
+.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+
+.mw-280 { width: 280px !important; margin: 0 auto !important; }
+
+.mw-80 { width: 80px !important; }
+.mh-60 { height: 60px !important; }
+
+.mw-212 { width: 212px !important; }
+.mh-118 { height: 118px !important; }
+
+.mobile-only {
+display: table-row !important;
+}
+}
+</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none;">
+<center>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%; height: 100%;" bgcolor="#ffffff">
+<tr>
+<td style="margin: 0; padding: 0; width: 100%; height: 100%;" align="center" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Preview Text -->
+<tr class="m-hide" style="mso-hide: all;">
+<td style="font-size: 0pt; line-height: 0pt;">
+<!--*|IF:MC_PREVIEW_TEXT|*-->
+<!--[if !gte mso 9]><!-->
+<span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">r/anime_irl: Anime_irl </span>
+<!--<![endif]-->
+<!--*|END:IF|*-->
+</td>
+</tr>
+<tr class="m-hide" style="mso-hide: all;">
+<td style="font-size: 0pt; line-height: 0pt;">&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;</td>
+</tr>
+<!-- END Preview Text -->
+</table>
+<table width="600px" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+<tr>
+<td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; margin:0; font-weight:normal;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Top -->
+<!-- Top -->
+<!-- required params: Username, UsernameLink, SnooImage, LogoImageUrl -->
+<tr>
+<td class="py-16 px-34 mpx-16" style="padding-top: 16px; padding-bottom: 16px; padding-left: 34px; padding-right: 34px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img" width="144" style="font-size:0pt; line-height:0pt; text-align:left;"><a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=header/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/0HDZS3jYGiK5JG5-Jjbqk3nGaZg83Y6sK0sz9p-bGHk=400" target="_blank"><img src="https://www.redditstatic.com/email2024/logo.png" width="144" height="40" border="0" /></a></td>
+<td class="img" width="15" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td align="right">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img" width="16" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="https://www.redditstatic.com/email2024/small_snoo.png" width="16" height="16" border="0" /></td>
+<td class="img" width="4" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td class="text-12 fw-500 c-lggrey" style="font-size:12px; line-height:16px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; font-weight: 500; color:#809399;"><a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fuser%2FImpossible_Cow_3628%2F%3F$deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=header/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/YGlktLCK0VQS3JKXG3R6QydSbUntVMxJ96zAdv-l3R8=400" target="_blank" class="link c-lggrey" style="text-decoration:none; color:#809399;"><span class="link c-lggrey" style="text-decoration:none; color:#809399;">Impossible_Cow_3628</span></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Top -->
+<!-- END Top -->
+<!-- Intro -->
+
+<!-- END Intro -->
+<tr class="mpx-16 pb-40" style="padding-left: 32px; padding-right: 32px; padding-bottom: 15px;">
+<!-- Big table for posts -->		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<!-- Post -->
+<!-- Post row -->	            <tr>
+<td class="img pt-12 pb-15 mpy-16 mpx-20" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px; padding-bottom: 15px; padding-right: 32px; padding-left: 32px;">
+<!-- Table to structure the post -->	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Row for subreddit icon and author -->		<tr>
+<td class="pb-9" style="padding-bottom: 9px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img" width="32" style="font-size:0pt; line-height:0pt; text-align:left; border-radius: 50%; overflow: hidden; ">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/-r78mkGWxMrlTyomYGZQ1-I6tn-jHqd32fjcv4rFFrc=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;">
+<img src="https://b.thumbs.redditmedia.com/gBMCgVCFf-6zbZSRk4UEU7F2cKDodYYZ-fTDFD3PayM.png" width="32" height="32" border="0" alt="Subreddit Icon" style="display: block; border-radius: 50%;" />
+</a>
+</td>
+<td class="img" width="7" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-14 c-dark-5" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#2A3C42;"><a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/-zrJ1WD9QzCnkqQ87r9K3V7pTzGxqMrHQ7ugB4Eyb5c=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><span class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><strong>r/anime_irl</strong></span></a></td>
+</tr>
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2Fcomments%2F1jxgqjq%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26post_index=0%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_author/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/48Xzy-dKY8bfkLNJ4Tck_wPADDgjBx5DFlJtImL63Ms=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">u/Nevwel</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2Fcomments%2F1jxgqjq%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26post_index=0%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_timestamp/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/71Im4YIK_rjeGOvrtrJDp4AC6g31735FE_vhwCQCv-c=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">7h ago</a>
+</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+<tr>
+<td class="text-18 mfz-14 c-dark-3 pb-19 mpb-11 mpr-17" style="font-size:18px; line-height:21px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#1B2426; padding-bottom: 5px; vertical-align:top; padding-right: 30px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2Fcomments%2F1jxgqjq%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26post_index=0%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_title/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/Q1lHk5bBj1wnEyUjCCOAZNlu39nT7hDDspnCY4gnSO0=400" target="_blank" class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<span class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<strong>Anime_irl</strong>
+</span>
+</a>
+
+</td>
+
+<td class="fluid-img mpb-11 mw-80 mh-60" style="width:128px; height: 98px; padding-bottom:20px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2Fcomments%2F1jxgqjq%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26post_index=0%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_image/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/Nz--DyhId98O7DZvqE-8k2eLaQYX6LvkChBINGEZ7oQ=400" target="_blank" style="width:128px; height: 98px; display:block; overflow:hidden; border-radius:8px; text-align:center;" class="mw-80 mh-60">
+<img src="https://preview.redd.it/vz0f53mdjeue1.png?width=1080&crop=smart&auto=webp&s=8d1abad1641ea2f244f7f80bf0aa0f44a83364f9" alt="Post Image Preview" style="border-radius:8px; width:100%; height:100%; object-fit: cover; object-position: center; display:block;"/>
+</a>
+</td>
+
+</tr>
+<!-- Row for post votes, comment and hide button -->	<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span style="text-decoration:none; color:#5C6C74">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2Fcomments%2F1jxgqjq%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26post_index=0%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_karma/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/O53lZTBfqqTN40cKdb0xwkGbRvhcAbqff7giDc-oUuw=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/upvote.png" width="15px" alt="" class="copyimg" style="vertical-align: middle;"/>
+2859 upvotes
+</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fanime_irl%2Fcomments%2F1jxgqjq%2Fanime_irl%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26post_index=0%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_comments/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/0nproHVYimLhyIeTUEhB8LYr1i716AjdVJnMgw0MemE=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/reddit_comment.png" width="13px" alt="" class="copyimg" style="vertical-align: middle;"/>
+23 comments
+</a>
+</span>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+<td class="img hidem" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td  class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F386zh%2F68c1b438f4f927351db332f592a9ac40d937104a0572fef71a2cd2e2993608e9%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/wIqtS4-NmGqdvOWTkYl0NP9nY6FwlHrYZ8mMoKhFoVw=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/anime_irl
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+<tr class="mobile-only"">
+<td style="font-size:0pt; line-height:0pt;" height="11">&nbsp;</td>
+</tr>
+<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding-top: 12; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr class="mobile-only">
+<td class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F386zh%2F68c1b438f4f927351db332f592a9ac40d937104a0572fef71a2cd2e2993608e9%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxgqjq%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/7P3BZ8RbtimA76L8zX_x3v75vqU0HrDw9MZ3uDVYf0I=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; padding-top: 11px; color:#5C6C74; text-align:right; vertical-align: text-top;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/anime_irl
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!-- END Post  -->
+<!-- Divider -->
+<tr>
+<td class="img mpx-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 32px; padding-right: 32px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="border-top: 1px solid #e6e6e6; font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Divider -->
+
+<!-- Post -->
+<!-- Post row -->	            <tr>
+<td class="img pt-12 pb-15 mpy-16 mpx-20" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px; padding-bottom: 15px; padding-right: 32px; padding-left: 32px;">
+<!-- Table to structure the post -->	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Row for subreddit icon and author -->		<tr>
+<td class="pb-9" style="padding-bottom: 9px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img" width="32" style="font-size:0pt; line-height:0pt; text-align:left; border-radius: 50%; overflow: hidden; ">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/HTpsZRfllGLzVydWejjILaBvIsMcpMcw17Jj3EYJke4=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;">
+<img src="https://styles.redditmedia.com/t5_29numb/styles/communityIcon_tuat5m898ry91.png" width="32" height="32" border="0" alt="Subreddit Icon" style="display: block; border-radius: 50%;" />
+</a>
+</td>
+<td class="img" width="7" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-14 c-dark-5" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#2A3C42;"><a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/DRHX8V4aew4Db5V068drdYxZEc4rL8h7vrWXC77isnE=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><span class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><strong>r/Hololive</strong></span></a></td>
+</tr>
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2Fcomments%2F1jxeyqd%2Ftold_them_to_wear_cow_costume%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26post_index=1%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_author/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/x5ICMwhqj7D7iCfi1mWKy-LA_FCajl9Z1r3so8H5tU4=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">u/fian_fn</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2Fcomments%2F1jxeyqd%2Ftold_them_to_wear_cow_costume%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26post_index=1%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_timestamp/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/3fARMAoZCxBsGFmBosA5j-EGQLOCdrXfvUBoXMuPVfA=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">9h ago</a>
+</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+<tr>
+<td class="text-18 mfz-14 c-dark-3 pb-19 mpb-11 mpr-17" style="font-size:18px; line-height:21px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#1B2426; padding-bottom: 5px; vertical-align:top; padding-right: 30px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2Fcomments%2F1jxeyqd%2Ftold_them_to_wear_cow_costume%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26post_index=1%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_title/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/Fxow6K4WfDRsrVH4-mhntawcgExl65945iwKkIJ6J1U=400" target="_blank" class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<span class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<strong>Told them to wear cow costume</strong>
+</span>
+</a>
+
+</td>
+
+<td class="fluid-img mpb-11 mw-80 mh-60" style="width:128px; height: 98px; padding-bottom:20px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2Fcomments%2F1jxeyqd%2Ftold_them_to_wear_cow_costume%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26post_index=1%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_image/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/hmFr8jeJ5Kd0aFx75GDWfx2CTJwMZhqsESozxIxHvMY=400" target="_blank" style="width:128px; height: 98px; display:block; overflow:hidden; border-radius:8px; text-align:center;" class="mw-80 mh-60">
+<img src="https://preview.redd.it/lf560clmxdue1.jpeg?width=1080&crop=smart&auto=webp&s=4e40fbed53f7870abdedddc59eef196e98cfd6d2" alt="Post Image Preview" style="border-radius:8px; width:100%; height:100%; object-fit: cover; object-position: center; display:block;"/>
+</a>
+</td>
+
+</tr>
+<!-- Row for post votes, comment and hide button -->	<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span style="text-decoration:none; color:#5C6C74">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2Fcomments%2F1jxeyqd%2Ftold_them_to_wear_cow_costume%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26post_index=1%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_karma/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/UluBgvXCbfkQy68TRSPdkFsK-SDEgMLfngHBSFi8nOc=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/upvote.png" width="15px" alt="" class="copyimg" style="vertical-align: middle;"/>
+5509 upvotes
+</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FHololive%2Fcomments%2F1jxeyqd%2Ftold_them_to_wear_cow_costume%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26post_index=1%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_comments/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/hqIi7vsbN1SIVcb_nIjyzm6FBq61J6Eij4VSrIsOGZQ=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/reddit_comment.png" width="13px" alt="" class="copyimg" style="vertical-align: middle;"/>
+53 comments
+</a>
+</span>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+<td class="img hidem" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td  class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F29numb%2Fcdaaf68d1c5c09ad38c0db567249983e71def76599fd2846dd8c4441f0cb7939%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/ZDGNxVhYS5LCn9Y8_Mq3sV25M1AKtnsUbPVKmEU7oDQ=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/Hololive
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+<tr class="mobile-only"">
+<td style="font-size:0pt; line-height:0pt;" height="11">&nbsp;</td>
+</tr>
+<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding-top: 12; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr class="mobile-only">
+<td class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F29numb%2Fcdaaf68d1c5c09ad38c0db567249983e71def76599fd2846dd8c4441f0cb7939%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jxeyqd%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/Br-dP9adRIae_NnQV0Wqu_vKsnPMlDyntEDRykBu2LA=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; padding-top: 11px; color:#5C6C74; text-align:right; vertical-align: text-top;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/Hololive
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!-- END Post  -->
+<!-- Divider -->
+<tr>
+<td class="img mpx-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 32px; padding-right: 32px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="border-top: 1px solid #e6e6e6; font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Divider -->
+
+<!-- Post -->
+<!-- Post row -->	            <tr>
+<td class="img pt-12 pb-15 mpy-16 mpx-20" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px; padding-bottom: 15px; padding-right: 32px; padding-left: 32px;">
+<!-- Table to structure the post -->	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Row for subreddit icon and author -->		<tr>
+<td class="pb-9" style="padding-bottom: 9px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img" width="32" style="font-size:0pt; line-height:0pt; text-align:left; border-radius: 50%; overflow: hidden; ">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/jeMMC4xK8xei8ymkmahXgws2Od39eAwNWwuUZjc_hhU=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;">
+<img src="https://styles.redditmedia.com/t5_2quts/styles/communityIcon_f34yi6nqdk7b1.jpg" width="32" height="32" border="0" alt="Subreddit Icon" style="display: block; border-radius: 50%;" />
+</a>
+</td>
+<td class="img" width="7" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-14 c-dark-5" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#2A3C42;"><a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/1ndxGej6vozvwYDUxZJsuR9x2mcuiswx8xqr-mhxmqM=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><span class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><strong>r/Naruto</strong></span></a></td>
+</tr>
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F1jwuz20%2Fmy_konan_cosplay_vesanicos%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26post_index=2%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_author/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/lTwLxsV5lQXK5Pd53ciRnB2yK9ESflj9aHKLJUtqrNo=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">u/vesanii</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F1jwuz20%2Fmy_konan_cosplay_vesanicos%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26post_index=2%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_timestamp/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/aYbaEH0wRMDmytU-1MA-WJrlmT70RPpca0KoWoWWGUQ=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">1d ago</a>
+</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+<tr>
+<td class="text-18 mfz-14 c-dark-3 pb-19 mpb-11 mpr-17" style="font-size:18px; line-height:21px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#1B2426; padding-bottom: 5px; vertical-align:top; padding-right: 30px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F1jwuz20%2Fmy_konan_cosplay_vesanicos%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26post_index=2%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_title/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/v4Te_LzGPUAy5F1IJrSTV3-BFwC5avvuErQwf0k5tls=400" target="_blank" class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<span class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<strong>My Konan cosplay ! (vesani.cos)</strong>
+</span>
+</a>
+
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F1jwuz20%2Fmy_konan_cosplay_vesanicos%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26post_index=2%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_body/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/pNrMtrWAENlKNJ6OfDu-AIYdANJVK_vXiTvzMYbRKmI=400" class="hidem text-14 c-dark-4" style="padding-top: 10px; text-align: left; font-size: 14px; line-height: 1.4em; color: #5C6C74; font-family: Helvetica, Arial, sans-serif; font-weight: normal; padding-bottom: 12px; display:block;" >
+finally got to cosplay from my fav anime <3 I really don't fit konan's vibes sorry about that ! I don't like how my "mean" face looks so i ended up looking more like a happy and feminine version of he...
+<span style="color: #0079DA;">Read More</span>
+</a>
+
+</td>
+
+<td class="fluid-img mpb-11 mw-80 mh-60" style="width:128px; height: 98px; padding-bottom:20px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F1jwuz20%2Fmy_konan_cosplay_vesanicos%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26post_index=2%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_image/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/2c4MjBnM_yn0LBSR4YU3T6F7ylErjPR_Xya7ke51fWM=400" target="_blank" style="width:128px; height: 98px; display:block; overflow:hidden; border-radius:8px; text-align:center;" class="mw-80 mh-60">
+<img src="https://preview.redd.it/8c6b3ajkm8ue1.jpg?width=1080&crop=smart&auto=webp&s=aec60acdca3e1a8e3e9cd78b7b1062c6b6061b23" alt="Post Image Preview" style="border-radius:8px; width:100%; height:100%; object-fit: cover; object-position: center; display:block;"/>
+</a>
+</td>
+
+</tr>
+<!-- Row for post votes, comment and hide button -->	<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span style="text-decoration:none; color:#5C6C74">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F1jwuz20%2Fmy_konan_cosplay_vesanicos%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26post_index=2%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_karma/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/wl0fxgkIJNTy8PjioInG1sem4N5wHyu1Aw-NAGE3prs=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/upvote.png" width="15px" alt="" class="copyimg" style="vertical-align: middle;"/>
+902 upvotes
+</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F1jwuz20%2Fmy_konan_cosplay_vesanicos%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26post_index=2%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_comments/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/D7pUFU8u5HAclrz1DxDHGOb3LbwNX7gSeahwPkRwjW4=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/reddit_comment.png" width="13px" alt="" class="copyimg" style="vertical-align: middle;"/>
+60 comments
+</a>
+</span>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+<td class="img hidem" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td  class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F2quts%2F3395e43dd6e11b5d967d6bf8a6a0c8959cc0dffba39e14c4a11ac50d907f3321%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/qCzeIKYWoSmZQLb2xsZt2gRxbzU3zGjcmd6SCgBn_kA=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/Naruto
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+<tr class="mobile-only"">
+<td style="font-size:0pt; line-height:0pt;" height="11">&nbsp;</td>
+</tr>
+<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding-top: 12; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr class="mobile-only">
+<td class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F2quts%2F3395e43dd6e11b5d967d6bf8a6a0c8959cc0dffba39e14c4a11ac50d907f3321%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwuz20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/iwyZiZSFDU_9E6RpjRpGk-zwAb5witJJbxsxq46ZBqM=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; padding-top: 11px; color:#5C6C74; text-align:right; vertical-align: text-top;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/Naruto
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!-- END Post  -->
+<!-- Divider -->
+<tr>
+<td class="img mpx-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 32px; padding-right: 32px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="border-top: 1px solid #e6e6e6; font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Divider -->
+
+<!-- Post -->
+<!-- Post row -->	            <tr>
+<td class="img pt-12 pb-15 mpy-16 mpx-20" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px; padding-bottom: 15px; padding-right: 32px; padding-left: 32px;">
+<!-- Table to structure the post -->	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Row for subreddit icon and author -->		<tr>
+<td class="pb-9" style="padding-bottom: 9px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img" width="32" style="font-size:0pt; line-height:0pt; text-align:left; border-radius: 50%; overflow: hidden; ">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/dT-uJG7A52mm74ym951fITRE1E2kE71c8rhF8sU6eyA=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;">
+<img src="https://styles.redditmedia.com/t5_r7x8p/styles/communityIcon_a7kkh3zxrl371.jpg" width="32" height="32" border="0" alt="Subreddit Icon" style="display: block; border-radius: 50%;" />
+</a>
+</td>
+<td class="img" width="7" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-14 c-dark-5" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#2A3C42;"><a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/9XMeEGoQ4ujtq3zNffVDsw8qj6FJTpXn75gaI5wkfsA=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><span class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><strong>r/sololeveling</strong></span></a></td>
+</tr>
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2Fcomments%2F1jwrca3%2Fyes_my_king%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26post_index=3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_author/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/bpaTYGqWFm46v_evtDxTpFeCG5YLPU4WrZPPibx6Bnc=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">u/Critikit</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2Fcomments%2F1jwrca3%2Fyes_my_king%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26post_index=3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_timestamp/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/re6Y-9el-_QhPYeBv2Ue95LEJNNbcqtKjZLyVbiUizg=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">1d ago</a>
+</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+<tr>
+<td class="text-18 mfz-14 c-dark-3 pb-19 mpb-11 mpr-17" style="font-size:18px; line-height:21px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#1B2426; padding-bottom: 5px; vertical-align:top; padding-right: 30px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2Fcomments%2F1jwrca3%2Fyes_my_king%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26post_index=3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_title/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/KbbVVfVz4pQsaYfVlnwg1XP-22IY60TqGSw4HRbXdGY=400" target="_blank" class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<span class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<strong>Yes my king.</strong>
+</span>
+</a>
+
+</td>
+
+<td class="fluid-img mpb-11 mw-80 mh-60" style="width:128px; height: 98px; padding-bottom:20px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2Fcomments%2F1jwrca3%2Fyes_my_king%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26post_index=3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_image/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/i1cWlNXiDqEwcoLH7T3Vt0sCh2WyDav-l4sWaMsXfA8=400" target="_blank" style="width:128px; height: 98px; display:block; overflow:hidden; border-radius:8px; text-align:center;" class="mw-80 mh-60">
+<img src="https://preview.redd.it/km9y13w9v7ue1.jpeg?width=960&crop=smart&auto=webp&s=da414895e1cbbf8eade32a3f9b78adb8c785a02b" alt="Post Image Preview" style="border-radius:8px; width:100%; height:100%; object-fit: cover; object-position: center; display:block;"/>
+</a>
+</td>
+
+</tr>
+<!-- Row for post votes, comment and hide button -->	<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span style="text-decoration:none; color:#5C6C74">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2Fcomments%2F1jwrca3%2Fyes_my_king%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26post_index=3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_karma/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/WkrevQX1boZJWMN1inJkB2uJ6vuDTNaMvDjU5iycvUI=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/upvote.png" width="15px" alt="" class="copyimg" style="vertical-align: middle;"/>
+2250 upvotes
+</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2Fsololeveling%2Fcomments%2F1jwrca3%2Fyes_my_king%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26post_index=3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_comments/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/-f2_2ED2iDyzuT97HLLc8b5pEhWablTUoyPqKeFJh8U=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/reddit_comment.png" width="13px" alt="" class="copyimg" style="vertical-align: middle;"/>
+32 comments
+</a>
+</span>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+<td class="img hidem" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td  class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2Fr7x8p%2F4724d7b52f1e54445bb9a5df608be820627fe12e35d5247758d1dbb6bb641b7f%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/XGHXHE_ur3iOqx3KqVAoHpjf7PhVfySsbhZvsaJhIDw=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/sololeveling
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+<tr class="mobile-only"">
+<td style="font-size:0pt; line-height:0pt;" height="11">&nbsp;</td>
+</tr>
+<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding-top: 12; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr class="mobile-only">
+<td class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2Fr7x8p%2F4724d7b52f1e54445bb9a5df608be820627fe12e35d5247758d1dbb6bb641b7f%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwrca3%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/fbWNq2xKvmcaIpjy7gmF6_hu3j1YO4nHrcVxcltqKBQ=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; padding-top: 11px; color:#5C6C74; text-align:right; vertical-align: text-top;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/sololeveling
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!-- END Post  -->
+<!-- Divider -->
+<tr>
+<td class="img mpx-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 32px; padding-right: 32px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="border-top: 1px solid #e6e6e6; font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Divider -->
+
+<!-- Post -->
+<!-- Post row -->	            <tr>
+<td class="img pt-12 pb-15 mpy-16 mpx-20" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px; padding-bottom: 15px; padding-right: 32px; padding-left: 32px;">
+<!-- Table to structure the post -->	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Row for subreddit icon and author -->		<tr>
+<td class="pb-9" style="padding-bottom: 9px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img" width="32" style="font-size:0pt; line-height:0pt; text-align:left; border-radius: 50%; overflow: hidden; ">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/7EoQ5dewyJ_Pk_9LT1DSAwio0HBqJOhsxIQlJccTSlA=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;">
+<img src="https://styles.redditmedia.com/t5_380mp/styles/communityIcon_t52s6hu4zb3e1.jpg" width="32" height="32" border="0" alt="Subreddit Icon" style="display: block; border-radius: 50%;" />
+</a>
+</td>
+<td class="img" width="7" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-14 c-dark-5" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#2A3C42;"><a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/_4CsUGBzVv1I4vO2MYbEqOxm3A08HwTkdvQVLzFH8SE=400" target="_blank" class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><span class="link c-dark-5" style="text-decoration:none; color:#2A3C42;"><strong>r/Dragonballsuper</strong></span></a></td>
+</tr>
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2Fcomments%2F1jwxvus%2Fus%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26post_index=4%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_author/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/XvC990WYW_-DlBQGq1eu7dBC1cPNC70IVeaYIvIkjps=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">u/Slick_Vec</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2Fcomments%2F1jwxvus%2Fus%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26post_index=4%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_timestamp/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/6io39vJw76g2i_WCkPsUNAecQtH2B8T-3QgXAS3oJ2A=400" target="_blank" class="link c-dkgrey" style="text-decoration:none; color:#7A9299;">1d ago</a>
+</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+<tr>
+<td class="text-18 mfz-14 c-dark-3 pb-19 mpb-11 mpr-17" style="font-size:18px; line-height:21px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#1B2426; padding-bottom: 5px; vertical-align:top; padding-right: 30px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2Fcomments%2F1jwxvus%2Fus%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26post_index=4%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_title/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/CpCALatM5aY3loIuHdlje5pUfFtXr-UOtwTQu-WYbBM=400" target="_blank" class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<span class="link c-dark-3" style="text-decoration:none; color:#1B2426;">
+<strong>US:</strong>
+</span>
+</a>
+
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2Fcomments%2F1jwxvus%2Fus%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26post_index=4%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_body/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/caI0WmbyRbiU_6KXkB_utcN9HM_bmE5r7VouH2xyWMg=400" class="hidem text-14 c-dark-4" style="padding-top: 10px; text-align: left; font-size: 14px; line-height: 1.4em; color: #5C6C74; font-family: Helvetica, Arial, sans-serif; font-weight: normal; padding-bottom: 12px; display:block;" >
+Fax or no?
+<span style="color: #0079DA;">Read More</span>
+</a>
+
+</td>
+
+<td class="fluid-img mpb-11 mw-80 mh-60" style="width:128px; height: 98px; padding-bottom:20px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2Fcomments%2F1jwxvus%2Fus%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26post_index=4%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_image/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/oD5GskF8gKB8fhqgXb9_xb5VnOLUyYp0vQz1M-XVOO8=400" target="_blank" style="width:128px; height: 98px; display:block; overflow:hidden; border-radius:8px; text-align:center;" class="mw-80 mh-60">
+<img src="https://preview.redd.it/2ajvogac89ue1.jpeg?width=1080&crop=smart&auto=webp&s=3fcc5b263efce81b86c52205f6452afdc4aa02f2" alt="Post Image Preview" style="border-radius:8px; width:100%; height:100%; object-fit: cover; object-position: center; display:block;"/>
+</a>
+</td>
+
+</tr>
+<!-- Row for post votes, comment and hide button -->	<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="text-12" style="font-size:12px; line-height:16px; color:#0F1A1C; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important;">
+<span style="text-decoration:none; color:#5C6C74">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2Fcomments%2F1jwxvus%2Fus%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26post_index=4%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_karma/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/-lKN2iKMaZUJrM5I6oLkxcymk4zC4PPV97eQAdSV17M=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/upvote.png" width="15px" alt="" class="copyimg" style="vertical-align: middle;"/>
+3127 upvotes
+</a>
+&bull;
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fr%2FDragonballsuper%2Fcomments%2F1jwxvus%2Fus%2F%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26post_index=4%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_comments/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/4OUbKH41JTMviY6vmA2IiOKON-F8pbaI8Y4fY14PZR4=400" class="text-14 c-dark-4" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; text-align:left; min-width:auto !important; color:#5C6C74;">
+<img src="https://www.redditstatic.com/emaildigest/reddit_comment.png" width="13px" alt="" class="copyimg" style="vertical-align: middle;"/>
+130 comments
+</a>
+</span>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+<td class="img hidem" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td  class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F380mp%2Ffa284b87ec3ae7113f4031d15d99f043da29a455fdd6b6a6c934375ba35ba6dd%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/OTUAX3WtUF1d_1aKov4G3MavH634tukI9e1PBXlbwgU=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/Dragonballsuper
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+<tr class="mobile-only"">
+<td style="font-size:0pt; line-height:0pt;" height="11">&nbsp;</td>
+</tr>
+<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<th class="column-top" style="font-size:0pt; line-height:0pt; padding-top: 12; margin:0; font-weight:normal; vertical-align:top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr class="mobile-only">
+<td class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; color:#5C6C74; text-align:right;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Fnotification_off%2F1eqabm8wjd%2F380mp%2Ffa284b87ec3ae7113f4031d15d99f043da29a455fdd6b6a6c934375ba35ba6dd%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26post_fullname=t3_1jwxvus%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=post_hide_subreddit/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/JnKpiSP0EvnsPj6bm2InCF3tFb9pO8lQ86fYq4HaY-M=400" class="text-14 c-dark-4 a-right mt-left" style="font-size:14px; line-height:18px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; padding-top: 11px; color:#5C6C74; text-align:right; vertical-align: text-top;">
+<img src="https://www.redditstatic.com/emaildigest/hide.png" width="15px" alt="" class="copyimg" style="vertical-align: text-top;"/>
+Hide r/Dragonballsuper
+</a>
+</td>
+</tr>
+</table>
+</th>
+</table>
+</td>
+</tr>
+
+
+</table>
+</td>
+</tr>
+<!-- END Post  -->
+<!-- Divider -->
+<tr>
+<td class="img mpx-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 32px; padding-right: 32px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img pt-12" style="border-top: 1px solid #e6e6e6; font-size:0pt; line-height:0pt; text-align:left; padding-top: 12px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Divider -->
+
+<!-- Button -->
+<tr>
+<td align="center" class="py-12" style="padding-top: 12px; padding-bottom: 12px;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="btn-14" bgcolor="#D93900" style="font-size:14px; line-height:18px; mso-padding-alt:9px 34px; color:#ffffff; font-family:'SF Pro Text', Helvetica,  Arial, sans-serif; text-align:center; min-width:auto !important; background-color:#D93900; border-radius:100px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=view_more/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/LTFKJKJLwlx-XrRFAGsP_Z5U6L80LqdE1NyGa0qeNns=400" target="_blank" class="link c-white" style="padding: 9px 34px; display: block; text-decoration:none; color:#ffffff;"><span class="link c-white" style="text-decoration:none; color:#ffffff;"><strong>View More Posts</strong></span></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Button -->
+</table>
+</tr>
+<!-- Footer -->
+<!-- Footer -->
+<!-- required params: AppleStoreUrl, GooglePlayUrl, LogoImageUrl, FooterText -->
+<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#EDF3F5">
+<tr>
+<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="px-32 pt-40 mpb-23 pb-40 mpx-15" style="padding-left: 32px; padding-right: 32px; padding-top: 40px; padding-bottom: 40px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="img-center pb-40 mpr-12" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 40px;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%3F%2524deep_link=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=footer/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/A3-3Wk19f1SvxUaW_F8fI8UFeQb0UCHwyi0L1GbXb2I=400" target="_blank"><img src="https://www.redditstatic.com/email2024/footer_logo.png" width="100" height="28" border="0" /></a>
+</td>
+</tr>
+<tr>
+<td class="pb-40" align="center" style="padding-bottom: 40px;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" class="img" width="120" style="font-size:0pt; line-height:0pt; text-align:left;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Freddit.app.link%2F%3Faction=click%26publisher_id=293679%26site_id=122129%26site_id_ios=121809%26utm_content=install_app/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/dhWP2gBbDs0_cJQZ1P-bE8yStO5_Bb5np_DNH_VlGrU=400" target="_blank"><img src="https://www.redditstatic.com/email2024/icon_appstore.png" width="120" height="41" border="0" /></a>
+</td>
+<td class="img" width="10" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+<td valign="top" class="img" width="131" style="font-size:0pt; line-height:0pt; text-align:left;">
+<a href="https://click.redditmail.com/CL0/https:%2F%2Freddit.app.link%2F%3Faction=click%26publisher_id=293679%26site_id=122129%26site_id_ios=121809%26utm_content=install_app/2/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/E-Intq9OdF6ECZ0jPVWnxK0aTgs8EeTstpU8LI7Msu8=400" target="_blank"><img src="https://www.redditstatic.com/email2024/icon_googleplay.png" width="131" height="41" border="0" /></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="text-10 lh-12 c-dark-6 a-center px-10 mpx-0" style="font-size:10px; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; line-height: 12px; color:#000001; text-align:center; padding-left: 10px; padding-right: 10px;">
+<div class="mw-280">
+This email was intended for u/Impossible_Cow_3628. <br />
+<a href="https://click.redditmail.com/CL0/https:%2F%2Fwww.reddit.com%2Fmail%2Funsubscribe%2F1eqabm8wjd%2F2%2Fb7d07df9906a0619f22ca5818dc3e4a8bf50aa00524b0ee30b37f8d29ecc07ee%3F%2524web_only=true%26correlation_id=99853562-df5b-4884-92fc-6f70931f0f20%26ref=email_digest%26ref_campaign=email_digest%26ref_source=email%26utm_content=unsubscribe/1/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/WPEnxISODjjgSzWjlr7m3BYP7DTp1UWa1UGlgn4N9DM=400" target="_blank" class="link-u c-dark-6" style="text-decoration:underline; color:#000001;"><span class="link-u c-dark-6" style="text-decoration:underline; color:#000001;">Unsubscribe</span></a> from daily digest messages, or visit your settings to manage <span class="m-hide"><br /></span> what emails Reddit sends you.
+<br /><br />
+
+5&zwnj;4&zwnj;8 M&zwnj;a&zwnj;rket S&zwnj;t., #16093, <br />
+San Francisco, CA&nbsp;9&zwnj;4&zwnj;1&zwnj;0&zwnj;4-5&zwnj;4&zwnj;0&zwnj;1
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END Footer - 1 -->
+<!-- END Footer -->
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+<img alt="" src="http://click.redditmail.com/CI0/010001962baf5884-d2120150-4ae3-4453-b7af-8a78c8e05139-000000/lwzzO5WQwlF_kMoWPUG8Rg75Y2vo-KZl8vF1c_wh9G8=400" style="display: none; width: 1px; height: 1px;">
+</body>
+</html>

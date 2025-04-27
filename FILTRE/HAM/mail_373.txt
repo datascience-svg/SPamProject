@@ -1,0 +1,41 @@
+From: "Jason @ ML Mastery" <jason@MachineLearningMastery.com>
+Subject: Deep learning library everyone should use
+
+Hi, top deep learning libraries in Python are TensorFlow and
+Theano.
+
+They are powerful libraries, but there is one critical problem
+with both of them.
+
+They were designed by academics and engineers for academics and
+engineers. Not for practitioners like you and me. This means they
+are really complicated and a real pain to use. Like tens or
+hundreds of lines of code for simple networks.
+
+There is a much better option. It is called Keras and it wraps
+both Theano and TensorFlow, giving you all the power of both, in
+just a few lines of code.
+
+Deep learning is fun with Keras, a heck of a lot of fun! I
+strongly recommend it when just starting out.
+
+Learn more about the Keras library for deep learning in Python in
+the post:
+
+>> Introduction to Python Deep Learning with ( http://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0NjEwOTU1LCJuYmYiOjE3NDQ2MTA5NTUsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJhcTFuZHhsd2Y0dmszcmxqdzF2YiIsInRva2VuIjoiYXExbmR4bHdmNHZrM3JsancxdmIiLCJzZW5kX2F0IjoxNzQ0NjI0ODAwLCJlbWFpbF9pZCI6MjAxODg2LCJlbWFpbGFibGVfdHlwZSI6IkNhbXBhaWduIiwiZW1haWxhYmxlX2lkIjoyMjExLCJ1cmwiOiJodHRwOi8vbWFjaGluZWxlYXJuaW5nbWFzdGVyeS5jb20vaW50cm9kdWN0aW9uLXB5dGhvbi1kZWVwLWxlYXJuaW5nLWxpYnJhcnkta2VyYXMvP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.bFU1dhOzKeghzHhlm83CEhNeM4hL770KkOJaA_e9vkU )Keras ( http://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0NjEwOTU1LCJuYmYiOjE3NDQ2MTA5NTUsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJhcTFuZHhsd2Y0dmszcmxqdzF2YiIsInRva2VuIjoiYXExbmR4bHdmNHZrM3JsancxdmIiLCJzZW5kX2F0IjoxNzQ0NjI0ODAwLCJlbWFpbF9pZCI6MjAxODg2LCJlbWFpbGFibGVfdHlwZSI6IkNhbXBhaWduIiwiZW1haWxhYmxlX2lkIjoyMjExLCJ1cmwiOiJodHRwOi8vbWFjaGluZWxlYXJuaW5nbWFzdGVyeS5jb20vaW50cm9kdWN0aW9uLXB5dGhvbi1kZWVwLWxlYXJuaW5nLWxpYnJhcnkta2VyYXMvP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.bFU1dhOzKeghzHhlm83CEhNeM4hL770KkOJaA_e9vkU )
+
+I'll speak to you soon.
+
+Jason.
+
+P.S. Want to learn how to use Keras to build MLPs, CNNs and RNNs?
+
+See my Ebook Deep Learning With Python ( https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0NjEwOTU1LCJuYmYiOjE3NDQ2MTA5NTUsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJhcTFuZHhsd2Y0dmszcmxqdzF2YiIsInRva2VuIjoiYXExbmR4bHdmNHZrM3JsancxdmIiLCJzZW5kX2F0IjoxNzQ0NjI0ODAwLCJlbWFpbF9pZCI6MjAxODg2LCJlbWFpbGFibGVfdHlwZSI6IkNhbXBhaWduIiwiZW1haWxhYmxlX2lkIjoyMjExLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL2RlZXAtbGVhcm5pbmctd2l0aC1weXRob24vP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.u_FsiQMRTZZmKRnAxJsKcDj1btIHbnO8cxNQHncd1Qw ).
+
+---------------------
+To make sure you keep getting these emails, please add
+jason@MachineLearningMastery.com to your address book or whitelist us. Want out of
+the loop? <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0NjEwOTU1LCJuYmYiOjE3NDQ2MTA5NTUsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJhcTFuZHhsd2Y0dmszcmxqdzF2YiIsInRva2VuIjoiYXExbmR4bHdmNHZrM3JsancxdmIiLCJzZW5kX2F0IjoxNzQ0NjI0ODAwLCJlbWFpbF9pZCI6MjAxODg2LCJlbWFpbGFibGVfdHlwZSI6IkNhbXBhaWduIiwiZW1haWxhYmxlX2lkIjoyMjExLCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmNvbS9zdWJzY3JpYmVycy9mb2IwYjE0ajlmNzdxaWFlbzl0cC90b3BpY3M_ZD1hcTFuZHhsd2Y0dmszcmxqdzF2YiZleGNsdWRlX2NsaWNrPTEmb25lX2NsaWNrX3Vuc3Vic2NyaWJlPTEmX19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.1OgOqps5SCAeGMoi3qLP4fbh2GBlywucKWG1Y6YTbXk">Unsubscribe</a>.
+
+Our postal address: 151 Calle de San Francisco, Suite 200 - PMB 5072, San Juan, PR 00901
+

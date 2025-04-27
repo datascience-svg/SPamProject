@@ -1,0 +1,43 @@
+From: "Jason @ ML Mastery" <jason@MachineLearningMastery.com>
+Subject: So, what is deep learning good for
+
+Hi, deep learning really comes alive once you see some examples
+of what it is capable of achieving.
+
+Deep learning techniques do very well on raw data, such as
+images, video, audio and text. But it is examples visual where
+you can quickly get an idea of the power of the methods.
+
+There are 8 examples of deep learning applications I like to
+share to inspire practitioners. They are:
+
+* Automatic colorization of black and white images.
+* Automatically adding sounds to silent movies.
+* Automatic machine translation.
+* Object classification and detection in photographs.
+* Automatic handwriting generation.
+* Automatic story generation.
+* Automatic image captioning. (wow!)
+* Automatic game playing (now famous)
+
+Discover real-world inspirational example applications of deep
+learning [with pictures] in the post:
+
+>> 8 Inspirational Applications of Deep Learning ( http://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0MzUxNzI5LCJuYmYiOjE3NDQzNTE3MjksImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJsbWRlZGh5Mzgyb2s1d3g0Z2gxbiIsInRva2VuIjoibG1kZWRoeTM4Mm9rNXd4NGdoMW4iLCJzZW5kX2F0IjoxNzQ0MzY1NjAwLCJlbWFpbF9pZCI6MjAxODc4LCJlbWFpbGFibGVfdHlwZSI6IkNhbXBhaWduIiwiZW1haWxhYmxlX2lkIjoyMjExLCJ1cmwiOiJodHRwOi8vbWFjaGluZWxlYXJuaW5nbWFzdGVyeS5jb20vaW5zcGlyYXRpb25hbC1hcHBsaWNhdGlvbnMtZGVlcC1sZWFybmluZy8_X19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.t51LxLfzj2GYiptfQagsYjW5FaldH9iQmb3AEsxUgXY )
+
+I'll speak to you soon.
+
+Jason.
+
+P.S. Do you want step-by-step tutorials for deep learning in
+Python?
+
+See my Ebook Deep Learning With Python ( https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0MzUxNzI5LCJuYmYiOjE3NDQzNTE3MjksImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJsbWRlZGh5Mzgyb2s1d3g0Z2gxbiIsInRva2VuIjoibG1kZWRoeTM4Mm9rNXd4NGdoMW4iLCJzZW5kX2F0IjoxNzQ0MzY1NjAwLCJlbWFpbF9pZCI6MjAxODc4LCJlbWFpbGFibGVfdHlwZSI6IkNhbXBhaWduIiwiZW1haWxhYmxlX2lkIjoyMjExLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL2RlZXAtbGVhcm5pbmctd2l0aC1weXRob24vP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.NntAdZ7HChcAs6xTKqnisldWZFIqnJbdmz9T4VhmeEo ).
+
+---------------------
+To make sure you keep getting these emails, please add
+jason@MachineLearningMastery.com to your address book or whitelist us. Want out of
+the loop? <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0MzUxNzI5LCJuYmYiOjE3NDQzNTE3MjksImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJsbWRlZGh5Mzgyb2s1d3g0Z2gxbiIsInRva2VuIjoibG1kZWRoeTM4Mm9rNXd4NGdoMW4iLCJzZW5kX2F0IjoxNzQ0MzY1NjAwLCJlbWFpbF9pZCI6MjAxODc4LCJlbWFpbGFibGVfdHlwZSI6IkNhbXBhaWduIiwiZW1haWxhYmxlX2lkIjoyMjExLCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmNvbS9zdWJzY3JpYmVycy9mb2IwYjE0ajlmNzdxaWFlbzl0cC90b3BpY3M_ZD1sbWRlZGh5Mzgyb2s1d3g0Z2gxbiZleGNsdWRlX2NsaWNrPTEmb25lX2NsaWNrX3Vuc3Vic2NyaWJlPTEmX19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.w2IUCO8MlYe7-65npSNOzQL3yzsnm0980-EqweyfbE8">Unsubscribe</a>.
+
+Our postal address: 151 Calle de San Francisco, Suite 200 - PMB 5072, San Juan, PR 00901
+

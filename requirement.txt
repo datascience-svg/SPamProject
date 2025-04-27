@@ -1,0 +1,9 @@
+fastapi 
+uvicorn 
+joblib
+scikit-learn
+pydantic
+python-multipart
+streamlit
+email-validator
+toml

@@ -1,0 +1,174 @@
+From: "Jason @ ML Mastery" <jason@MachineLearningMastery.com>
+Subject: Fine-Tuning LLMs for RAG & RAG Pipelines in Production
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>MLM Weekly Digest</title>
+    </head>
+    <body style="background-color:#FFFFFF; font-family:arial,verdana,tahoma; font-size:14px;">
+        <table style="border:0px; border-collapse:collapse; width:680px; margin-left:auto; margin-right:auto;">
+            <td>
+                <!-- Header -->
+                <table style="width:100%; border-collapse:collapse;">
+                    <tr>
+                        <td style="vertical-align:top;">
+                            <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tLz9fX3M9Zm9iMGIxNGo5Zjc3cWlhZW85dHAifQ.-BRoMGINOUwy4MycLDBhA3WsKTf1d549X39SrOUKIw0" style="color:#000000; text-decoration:none;">
+                                <img style="border-radius:4px; display:block;" src="https://machinelearningmastery.com/wp-content/uploads/2024/11/mlm-newsletter-header-image-final.png" alt="Visit Machine Learning Mastery for more on Machine Learning &amp; AI" width="225">
+                            </a>
+                        </td>
+                        <td style="text-align:right; vertical-align:bottom; padding-left:10px; white-space:nowrap;">
+                            <font style="color:#808080; font-size:15px;">April 11, 2025</font>
+                        </td>
+                    </tr>
+                </table>
+                <br>
+
+                <!-- Editor's Picks -->
+                <h2 style="font-size:22px; font-weight:bold; color:#36454F; margin-bottom:5px;">Editor's Picks</h2>
+                <hr style="height:2px; border-width:0; color:gray; background-color:#82abc7; margin:0;">
+
+                <div style="padding-top: 10px;">
+                    <p style="font-size:18px; line-height:150%; margin:0; padding-left:2px;">
+                        <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL3VuZGVyc3RhbmRpbmctcmFnLXBhcnQtaXgtZmluZS10dW5pbmctbGxtcy1mb3ItcmFnP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.3w15HAkWAPIlLgRWk7Ym9HOosoJkuhlBQLn-iY9BGzw" style="display:block; font-size:18px; line-height:150%; color:#36454F; text-decoration:none; font-weight:bold;">
+                            Understanding RAG Part IX: Fine-Tuning LLMs for RAG
+                        </a>
+                    </p>
+                    <p style="font-size:14px; line-height:150%; margin:0; padding-left:2px; color:#808080;">
+                        Ivn Palomares Carrascosa
+                    </p>
+                </div>
+				
+                <div style="padding-top: 10px;">
+                    <p style="font-size:18px; line-height:150%; margin:0; padding-left:2px;">
+                        <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL3VuZGVyc3RhbmRpbmctcmFnLXBhcnQteC1yYWctcGlwZWxpbmVzLWluLXByb2R1Y3Rpb24_X19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.IbqBqWid1sfbx4uYFfM5s9D7o3-EUuDazpTPpPsLzPs" style="display:block; font-size:18px; line-height:150%; color:#36454F; text-decoration:none; font-weight:bold;">
+                            Understanding RAG Part X: RAG Pipelines in Production
+                        </a>
+                    </p>
+                    <p style="font-size:14px; line-height:150%; margin:0; padding-left:2px; color:#808080;">
+                        Ivn Palomares Carrascosa
+                    </p>
+                </div>
+                <br>
+
+                <!-- Recent Articles -->
+                <h2 style="font-size:22px; font-weight:bold; color:#36454F; margin-bottom:5px;">Recent Articles</h2>
+                <hr style="height:2px; border-width:0; color:gray; background-color:#82abc7; margin:0;">
+
+                <div style="padding-top: 10px;">
+                    <p style="font-size:18px; line-height:150%; margin:0; padding-left:2px;">
+                        <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tLzUtcmVhc29ucy13aHktdHJhZGl0aW9uYWwtbWFjaGluZS1sZWFybmluZy1pcy1hbGl2ZS1hbmQtd2VsbC1pbi10aGUtYWdlLW9mLWxsbXM_X19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.6rhhPFg9VafHN1P_zaLsJpnqRITq2_jEt49Eu7wq4og" style="display:block; font-size:18px; line-height:150%; color:#36454F; text-decoration:none; font-weight:bold;">
+                            5 Reasons Why Traditional Machine Learning is Alive and Well in the Age of LLMs
+                        </a>
+                    </p>
+                    <p style="font-size:14px; line-height:150%; margin:0; padding-left:2px; color:#808080;">
+                        Ivn Palomares Carrascosa
+                    </p>
+                </div>
+
+                <div style="padding-top: 10px;">
+                    <p style="font-size:18px; line-height:150%; margin:0; padding-left:2px;">
+                        <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL2hvdy10by1wZXJmb3JtLXNjaWtpdC1sZWFybi1oeXBlcnBhcmFtZXRlci1vcHRpbWl6YXRpb24td2l0aC1vcHR1bmE_X19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.0muAMYV6cU_b51dofn9rERDXj_d7lZp6k_zmW0oz7Fo" style="display:block; font-size:18px; line-height:150%; color:#36454F; text-decoration:none; font-weight:bold;">
+                            How to Perform Scikit-learn Hyperparameter Optimization with Optuna
+                        </a>
+                    </p>
+                    <p style="font-size:14px; line-height:150%; margin:0; padding-left:2px; color:#808080;">
+                        Ivn Palomares Carrascosa
+                    </p>
+                </div>
+
+                <div style="padding-top: 10px;">
+                    <p style="font-size:18px; line-height:150%; margin:0; padding-left:2px;">
+                        <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL2V4YW1wbGUtYXBwbGljYXRpb25zLW9mLXRleHQtZW1iZWRkaW5nLz9fX3M9Zm9iMGIxNGo5Zjc3cWlhZW85dHAifQ.HqPg963RODWGhPxoLmesEBqfXp5LlYy6xaJEpPEPKoE" style="display:block; font-size:18px; line-height:150%; color:#36454F; text-decoration:none; font-weight:bold;">
+                            Example Applications of Text Embedding
+                        </a>
+                    </p>
+                    <p style="font-size:14px; line-height:150%; margin:0; padding-left:2px; color:#808080;">
+                        Muhammad Asad Iqbal Khan
+                    </p>
+                </div>
+
+                <div style="padding-top: 10px;">
+                    <p style="font-size:18px; line-height:150%; margin:0; padding-left:2px;">
+                        <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL3VzaW5nLWF1dG8tY2xhc3Nlcy1pbi10aGUtdHJhbnNmb3JtZXJzLWxpYnJhcnkvP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.P1U8zY3P0W0OE6SeFiRUwFWQudsToL0C4J-3tLzimK4" style="display:block; font-size:18px; line-height:150%; color:#36454F; text-decoration:none; font-weight:bold;">
+                            Using Auto Classes in the Transformers Library
+                        </a>
+                    </p>
+                    <p style="font-size:14px; line-height:150%; margin:0; padding-left:2px; color:#808080;">
+                        Adrian Tam
+                    </p>
+                </div>
+                <br>
+
+                <!-- From Around The Web -->
+                <h2 style="font-size:22px; font-weight:bold; color:#36454F; margin-bottom:5px;">From Around The Web</h2>
+                <hr style="height:2px; border-width:0; color:gray; background-color:#82abc7; margin:0;">
+                <div style="width:100%; padding-top:10px;">
+
+                    <div style="margin-bottom:10px; display:flex; width:100%;">
+                        <div style="width:4px; background-color:#f3ac35; border-top-left-radius:8px; border-bottom-left-radius:8px;"></div>
+                        <div style="flex:1; width:calc(100% - 4px); padding-left:15px; padding-right:8px; padding-top:10px; padding-bottom:10px; background-color:#f9e2b3; border-top-right-radius:8px; border-bottom-right-radius:8px;">
+                            <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL3d3dy5rZG51Z2dldHMuY29tLzMtd2F5cy10by1hY2Nlc3MtbGxhbWEtNC1mb3ItZnJlZT9fX3M9Zm9iMGIxNGo5Zjc3cWlhZW85dHAifQ.hadYzQDVxj_WfiByjxlvNJofchDcaH4C8FoYVouZeRo" style="display:block; text-decoration:none; color:#36454F;">
+                                <div style="font-size:16px; line-height:1.0; font-weight:600; color:#36454F; margin-bottom:8px;">
+                                    3 Ways to Access Llama 4 for Free
+                                </div>
+                                <div style="font-size:13px; color:#f3ac35; font-weight:800; line-height:1.0;">KDnuggets</div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div style="margin-bottom:10px; display:flex; width:100%;">
+                        <div style="width:4px; background-color:#f3ac35; border-top-left-radius:8px; border-bottom-left-radius:8px;"></div>
+                        <div style="flex:1; width:calc(100% - 4px); padding-left:15px; padding-right:8px; padding-top:10px; padding-bottom:10px; background-color:#f9e2b3; border-top-right-radius:8px; border-bottom-right-radius:8px;">
+                            <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL3d3dy5rZG51Z2dldHMuY29tL2dlbWluaS1yYWctcmVjaXBlLXdpdGgtcXVlcnktZW5oYW5jZW1lbnQ_X19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.kN4Ht4a9p-P72hIZn2CEBAKwzHof5ZYv85ehkGmfqD8" style="display:block; text-decoration:none; color:#36454F;">
+                                <div style="font-size:16px; line-height:1.0; font-weight:600; color:#36454F; margin-bottom:8px;">
+                                    Gemini RAG Recipe with Query Enhancement
+                                </div>
+                                <div style="font-size:13px; color:#f3ac35; font-weight:800; line-height:1.0;">KDnuggets</div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div style="margin-bottom:10px; display:flex; width:100%;">
+                        <div style="width:4px; background-color:#f3ac35; border-top-left-radius:8px; border-bottom-left-radius:8px;"></div>
+                        <div style="flex:1; width:calc(100% - 4px); padding-left:15px; padding-right:8px; padding-top:10px; padding-bottom:10px; background-color:#f9e2b3; border-top-right-radius:8px; border-bottom-right-radius:8px;">
+                            <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL3d3dy5rZG51Z2dldHMuY29tL3d0Zi1pcy1hLXRyYW5zZm9ybWVyP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.-W4IE-cS5YyT4jYjr9eiNkOP4UbbYcFE1A94t7iZkkc" style="display:block; text-decoration:none; color:#36454F;">
+                                <div style="font-size:16px; line-height:1.0; font-weight:600; color:#36454F; margin-bottom:8px;">
+                                    WTF is a Transformer?!?
+                                </div>
+                                <div style="font-size:13px; color:#f3ac35; font-weight:800; line-height:1.0;">KDnuggets</div>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+                <br>
+                <br>
+
+                <!-- Let's work together -->
+                <div style="max-width: 100%; padding: 20px; text-align:center; border: 1px solid #e5e7eb; border-radius: 8px; background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+                    <div style="font-size:16px; line-height:1.4; color:#1f2937; margin-bottom: 30px;">
+                        Want to reach 250,000+ AI and machine learning professionals with your company, product, service, or event? Let's work together.
+                    </div>
+                    <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL2Zvcm1zLmdsZS94SmlOaU1LZkFCdGVXSllHOT9fX3M9Zm9iMGIxNGo5Zjc3cWlhZW85dHAifQ.y7nSWxqN7lM-YBnne0cG-9dvZGUa2vlbMrM_lMO4aCU" style="display: inline-block; padding: 16px 32px; background-color: #3b82f6; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 16px;">WORK WITH US</a>
+                </div>
+                <br><br>
+
+                <!-- Footer -->
+                <div style="text-align:center; margin-top:10px; padding-top:0px; border-top:1px solid #ddd; padding-bottom:20px;">
+                    
+                    <div style="padding-top:20px;">
+                        <p style="font-size:14px;">
+                            <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL2Fib3V0Lz9fX3M9Zm9iMGIxNGo5Zjc3cWlhZW85dHAifQ.KGjp6h-KAIWLJX8VKPV1WiZaVWVsjpUeLFQA8pPflVY" style="color:#808080; text-decoration:none; margin:0 10px;">About</a>
+                            <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL3ByaXZhY3kvP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.bjXwsjXPdpLpz3Eny5G_6HKE8ZUc1PmeQmh_kPy4Uhk" style="color:#808080; text-decoration:none; margin:0 10px;">Privacy</a>
+                            <a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL21hY2hpbmVsZWFybmluZ21hc3RlcnkuY29tL2NvbnRhY3QvP19fcz1mb2IwYjE0ajlmNzdxaWFlbzl0cCJ9.wvjQCyz9TnpOyom6EOfCeJyyFzDY6QBmxXzPcxZ7kUc" style="color:#808080; text-decoration:none; margin:0 10px;">Contact</a>
+                        </p>
+                        <p style="color:#808080; font-size:14px;"> 2025 Machine Learning Mastery</p>
+                        <p style="color:#808080; font-size:14px;">151 Calle de San Francisco, Suite 200 - PMB 5072, San Juan, PR 00901</p>
+                        <p style="color:#808080; font-size:14px;"><a href="https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzQ0Mzk3MDkyLCJuYmYiOjE3NDQzOTcwOTIsImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJ0M2h4c3R2cTdicTAybWI4eWE4NSIsInRva2VuIjoidDNoeHN0dnE3YnEwMm1iOHlhODUiLCJzZW5kX2F0IjoxNzQ0Mzk2NzQ1LCJlbWFpbF9pZCI6MTA1ODI2OTEsImVtYWlsYWJsZV90eXBlIjoiQnJvYWRjYXN0IiwiZW1haWxhYmxlX2lkIjo0MjI1MTAzLCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmNvbS9zdWJzY3JpYmVycy9mb2IwYjE0ajlmNzdxaWFlbzl0cC90b3BpY3M_ZD10M2h4c3R2cTdicTAybWI4eWE4NSZleGNsdWRlX2NsaWNrPTEmb25lX2NsaWNrX3Vuc3Vic2NyaWJlPTEmX19zPWZvYjBiMTRqOWY3N3FpYWVvOXRwIn0.YaSFhDgsyDfyS6EtBjxSokLYygW7wSVSTQWgJJ5_p0A">Unsubscribe</a></p>
+                    </div>
+                </div>
+            </td>
+        </table>
+    <img src="https://u41288058.ct.sendgrid.net/wf/open?upn=u001.BHQNCGnyUQdSqOoKINOIn48vhGSn9ycNtEs5YmJdEw7YqCprfbBhWOwgXNETFu-2Br6jrCRde4Eg2ZjnwRFlkWTXIQdNSCcVEajws-2BmOIdFsUAp-2BvyCaExGL8-2B-2FiPq2Dzdmox6275fEWgIau-2FhL3AIfHvoWqdlPeKanKhp8tHvf1zRjFuzGHjnkJfcOmO4F5dfQA56tjYUXFpbQgQvIGBnwbUM2t6fxarwX0qU-2FsEiwQuHgLwUUUr5aXG5TTWRlJzlAIos8jndoa8QulZQasVJpg-2Fxjmnwhrg9NmFT5jJWATg-2BMcsTu2pWh1OzNC1SmEg7XrmJsqapI8Kp4sQGcdbmqI-2FZF1I9zO9z0wfADlRyEbpIPDQP-2BpYNV8r-2FKBoQUTWSAh4V0HxENDOsiKIcVGh21g46r0tT8Eb8nsto7kUrjKVOPbyJo61M3aI7cwiOo9NB2owGHo19dZVkqd6R4nYNROQVD-2BuhISZvcIXXBMahKRkk4mvsy7jf-2FaUl-2B2gkbE4OWjd8TuBMD-2BR-2FANr23X8TrNT-2BCD4VdrdCQB-2BC6WP2ePYNUfs-2Frh8WSw3FtNkd7Gt4by3iQCoFj-2BoKQQ5zdDrkjmKj4cznCA2bASDDQonEiqB-2FK87-2FBPwAgcJSb0iMUEAuWeTgrclt9MrGDa2qJWWjjgH76pdvMtO9KCbm-2FYJKhhn7lbXeJqAbgTwsqKkYv75wox-2FNavFzbTQF5FaMsc-2Bt5ne658LehyCaW1gKplTsyYCFzeVZYplEuPyIox5HnLxRetIoY3PZfliWR2CYxqwHwha195ws9obVbn3EvcUiaAzkmVMchE9hXT1ubnBiO9v4bHBbAZJVHV7Z0awSa7cJyw2Zc5vKy2cTAFhf4eu6CNoW4bKKMPVlwdWLhXGJnX8z" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>

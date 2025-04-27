@@ -1,0 +1,912 @@
+From: Canva Create HQ <canvacreate@engage.canva.com>
+Subject: Watch the Canva Create Keynote now
+
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<!--
+
+
+
+
+
+
+
+
+
+
+
+-->
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml>
+<![endif]--><!--[if !mso]><!--><link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+<!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media (max-width:620px){.mobile_hide{display:none}.row-content{width:100%!important}.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-height:none!important}.row-5 .column-1 .block-1.image_block td.pad{padding:24px 0!important}.row-4 .column-1 .block-1.heading_block h1{font-size:26px!important}.row-2 .column-1,.row-3 .column-1,.row-5 .column-1{padding:0!important}.row-4 .column-1{padding:12px 24px!important}}
+</style>
+<!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]-->
+<!--[if lte mso 11]>
+  <style type="text/css">
+    .outlook-group-fix {
+      width: 100% !important;
+    }
+  </style>
+<![endif]-->
+<style type="text/css">
+  @media only screen and (max-width: 480px) {
+    table.full-width-mobile {
+      width: 100% !important;
+    }
+    td.full-width-mobile {
+      width: auto !important;
+    }
+    .border-purple {
+      border: 1px solid #7300E6 !important;
+      border-radius: 4px !important;
+      border-collapse: separate !important;
+    }
+    .border-none {
+      border: 0px solid #ffffff !important;
+    }
+  }
+  @media only screen and (max-width: 620px) {
+    .dys-desktop {
+      display: none !important;
+    }
+    div.dys-mobile {
+      display: block !important;
+    }
+    tr.dys-mobile {
+      display: table-row !important;
+    }
+  }
+</style>
+<style type="text/css">
+  @media only screen and (min-width: 620px) {
+    .dys-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }
+    .dys-column-px-16 {
+      width: 16px !important;
+      max-width: 16px;
+    }
+    .dys-column-px-392 {
+      width: 392px !important;
+      max-width: 392px;
+    }
+    .dys-column-px-80 {
+      width: 80px !important;
+      max-width: 80px;
+    }
+  }
+  u + #body a {
+    color: #0e1318;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+  }
+  a {
+    color: #0e1318;
+    text-decoration: none;
+  }
+  html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-variant-ligatures: none;
+    -webkit-font-variant-ligatures: none;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+  }
+  .wrapper {
+    background-color: #edf0f2;
+  }
+  .show-for-mobile table {
+    mso-hide: all;
+  }
+  .wrapper-margin {
+    width: 48px;
+  }
+  .desktop_hide,
+  .desktop_hide table {
+    mso-hide: all;
+    display: none;
+    max-height: 0;
+    overflow: hidden;
+  }
+  @media only screen and (max-width: 620px) {
+    .wrapper {
+      background-color: #ffffff !important;
+    }
+    .wrapper-margin {
+      width: 24px !important;
+    }
+    .footer-bg-mobile {
+      background-color: #ffffff !important;
+    }
+    .hide-for-mobile {
+      display: none !important;
+    }
+    .show-for-mobile {
+      display: block !important;
+      max-height: none !important;
+    }
+    .rounded-none {
+      border-radius: 0 !important;
+    }
+    .border-radius-for-large,
+    .border-radius-for-large img {
+      border-radius: 0 !important;
+    }
+    .mobile_hide {
+      display: none !important;
+    }
+    .mobile_hide {
+      min-height: 0 !important;
+      max-height: 0 !important;
+      max-width: 0 !important;
+      overflow: hidden !important;
+      font-size: 0 !important;
+    }
+    .desktop_hide,
+    .desktop_hide table {
+      display: table !important;
+      max-height: none !important;
+    }
+    .column-stack {
+      display: block !important;
+      width: 100% !important;
+    }
+    .column-stack tbody,
+    .column-stack tbody tr {
+      width: 100% !important;
+      display: table !important;
+    }
+    .column-stack .column-lhs {
+      display: table-caption !important;
+      width: 100% !important;
+    }
+    .column-stack .column-rhs {
+      display: table-footer-group !important;
+      width: 100% !important;
+    }
+    .column-stack .column-gutter {
+      display: table-header-group !important;
+      width: 100% !important;
+    }
+    .image_block img.fullWidth {
+      max-width: 100% !important;
+    }
+    .row-content {
+      width: 100% !important;
+    }
+    .stack .column {
+      width: 100%;
+      display: block;
+    }
+    .row-stack .column-1 {
+      padding: 8px 24px 8px !important;
+    }
+    .row-stack .column-2 {
+      padding: 8px 24px 8px !important;
+    }
+    .tr-column-1 {
+      padding: 8px 8px 8px 24px !important;
+    }
+    .tr-column-2 {
+      padding: 8px 24px 8px 8px !important;
+    }
+    .text-xs,
+    .text-xs div,
+    .text-xs span {
+      font-size: 12px !important;
+    }
+    .text-xxs,
+    .text-xxs div,
+    .text-xxs span {
+      font-size: 11px !important;
+    }
+    .text-left,
+    div.text-left,
+    .text-left div,
+    .text-left span {
+      text-align: left !important;
+    }
+    .text-right,
+    div.text-right,
+    .text-right div,
+    .text-right span  {
+      text-align: right !important;
+    }
+    .bg-n200 {
+       background-color: #F2F3F5 !important; 
+    }
+    .va-top {
+      vertical-align: top !important;
+    }
+    .rounded-none {
+      border-radius: 0 !important;
+    }
+    .p-0 {
+      padding: 0px !important;
+    }
+    .pt-0 {
+       padding-top: 0px !important; 
+    }
+    .pb-0 {
+       padding-bottom: 0px !important; 
+    }
+    .pt-2 {
+      padding-top: 2px !important;
+    }
+    .pr-2 {
+      padding-right: 2px !important;
+    }
+    .pt-5 {
+      padding-top: 5px !important;
+    }
+    .pt-8 {
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+      padding-top: 8px !important;
+      padding-bottom: 0px !important;
+    }
+    .pb-8 {
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+      padding-top: 0px !important;
+      padding-bottom: 8px !important;
+    }
+    .py-8 {
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+      padding-top: 8px !important;
+      padding-bottom: 8px !important;
+    }
+    .p-16 {
+      padding: 16px !important;
+    }
+    .px-16 {
+      padding-left: 16px !important;
+      padding-right: 16px !important;
+    }
+    .py-12 {
+      padding-top: 12px !important;
+      padding-bottom: 12px !important;
+    }
+    .pb-16 {
+      padding-bottom: 16px !important;
+    }
+    .pt-32 {
+      padding-top: 32px !important;
+    }
+    .w-16 {
+      width: 16px !important;
+    }
+    .w-1 {
+      width: 1px !important;
+    }
+    .h-0 {
+      height: 0px !important;
+      line-height: 0px !important;
+    }
+    .h-1 {
+      height: 1px !important;
+    }
+    .h-16 {
+      height: 16px !important;
+      line-height: 16px !important;
+    }
+    .h-20 {
+      height: 20px !important;
+      line-height: 20px !important;
+    }
+    .h-24 {
+      height: 24px !important;
+      line-height: 24px !important;
+    }
+    .h-78 {
+      height: 78px !important;      
+    }
+    .w-full {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    .font-52, .font-52 div, .font-52 span {
+      font-size: 52px !important;
+      line-height: 51px !important;
+      letter-spacing: -1.2641596794128418px !important;
+    }
+    .font-36, .font-36 div, .font-36 span {
+      font-size: 36px !important;
+      line-height: 37px !important;
+      letter-spacing: -2px !important;
+    }
+    .font-26,
+    .font-26 div,
+    .font-26 span {
+      font-size: 26px !important;
+    }
+    .font-22,
+    .font-22 div,
+    .font-22 span {
+      font-size: 22px !important;
+    }
+    .font-20,
+    .font-20 div,
+    .font-20 span {
+      font-size: 20px !important;
+    }
+    .font-18,
+    .font-18 div,
+    .font-18 span {
+      font-size: 18px !important;
+    }
+    .font-16, .font-16 div, .font-16 span {
+      font-size: 16px !important; 
+    }
+    .font-14, .font-14 div, .font-14 span {
+      font-size: 14px !important; 
+    }
+    .font-12,
+    .font-12 div,
+    .font-12 span {
+      font-size: 12px !important;
+    }        
+    .border-purple {
+      border: 1px solid #7300E6 !important;
+      border-radius: 4px !important;
+      border-collapse: separate !important;
+    }
+    .border-none {
+      border: 0px solid #ffffff !important;
+    }
+    .rounded-t-8 {
+       border-radius: 8px 8px 0 0 !important; 
+    }
+  }
+</style>
+
+</head>
+<body class="body" style="margin:0;background-color:#edf0f2;padding:0;-webkit-text-size-adjust:none;text-size-adjust:none">
+<div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Witness the unveiling of our biggest launches, fresh from the event.</div>
+<div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ </div>
+<table class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#edf0f2"><tbody><tr><td>
+<table class="row row-1" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#edf0f2;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:'Open Sans',Arial,Sans-serif;text-align:center" align="center">
+<!--
+Contact Sales Logic:CMS:
+
+
+
+
+-->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="wrapper-outlook" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+<div class="wrapper" style="background: #edf0f2; background-color: #edf0f2; margin: 0px auto; max-width: 600px">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #edf0f2; background-color: #edf0f2; width: 100%">
+      <tbody>
+        <tr>
+          <td style="direction: ltr; font-size: 0px; padding: 0; text-align: center; vertical-align: top">
+            <!--[if mso | IE]>
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;">
+  <![endif]-->
+            <div class="dys-column-per-100 outlook-group-fix" style="direction: ltr; display: inline-block; font-size: 13px; text-align: left; vertical-align: top; width: 100%">
+              <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                <tbody>
+                  <tr>
+                    <td style="padding: 0; vertical-align: top">
+                      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                        <tr>
+                          <td align="left" style="font-size: 0px; padding: 0; word-break: break-word">
+                            <table border="0" cellpadding="0" cellspacing="0" style="color: #000000; font-family: Helvetica, Arial, sans-serif; font-size: 13px; line-height: 22px; table-layout: auto; width: 100%" width="100%">
+                              <tr>
+                                <td>
+                                  <table cellpadding="0" cellspacing="0" class="mobile_hide">
+                                    <tr>
+                                      <td height="16" style="height: 16px; line-height: 16px">&nbsp;</td>
+                                    </tr>
+                                  </table>
+                                  <table bg="#ffffff" cellpadding="0" cellspacing="0" class="rounded-none" style="border-radius: 8px 8px 0 0; background: #ffffff; width: 100%">
+                                    <tr>
+                                      <td class="h-24" height="52" style="height: 52px">&nbsp;</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]>
+         </td></tr></table>
+         <![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <!--[if mso | IE]>
+         </td></tr></table>
+         <![endif]-->
+  <!--[if mso | IE]>
+         <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+         <![endif]-->
+  <div style="background: #ffffff; background-color: #ffffff; margin: 0px auto; max-width: 600px">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #ffffff; background-color: #ffffff; width: 100%">
+      <tbody>
+        <tr>
+          <td style="direction: ltr; font-size: 0px; padding: 0; text-align: center; vertical-align: top">
+            <!--[if mso | IE]>
+         <table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;">
+         <![endif]-->
+            <div class="dys-column-per-100 outlook-group-fix" style="direction: ltr; display: inline-block; font-size: 13px; text-align: left; vertical-align: top; width: 100%">
+              <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                <tbody>
+                  <tr>
+                    <td style="padding: 0; vertical-align: top">
+                      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                        <tr>
+                          <td align="left" style="font-size: 0px; padding: 0; word-break: break-word">
+                            <table border="0" cellpadding="0" cellspacing="0" style="color: #000000; font-family: Helvetica, Arial, sans-serif; font-size: 13px; line-height: 22px; table-layout: auto; width: 100%" width="100%">
+                              <tr>
+                                <td class="wrapper-margin" width="48">&nbsp;</td>
+                                <td>
+                                  <table cellpadding="0" cellspacing="0" padding="0" style="width: 100%" width="100%" dir="ltr" >
+                                    <tr>
+                                      <!---->
+                                        <td align="left" style="vertical-align: middle; width: 80px" width="80">
+                                          <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC208j8LKFj5UsheP8CNt347wfn8krXNZeZ9UYixJ6_pD0BRFj-T_SADph_NSIoZiZzzXf07zIM1dSHUW7m7P-2IEi2OJSMmytDjSOWzJ-V_hddKJHgDQ8AizFkW-TmF6pzjbHnwd59Y-tfT4dbkjgAYqPcqppnLTK8IJomPyRaoBAbY5I5ibnr36AcZ1hZ49JGhd26OqVkj9CY7sjxWabCxQ/4fk/Pg8RBDFLQXK7vHRh7rZiag/h0/h001.-almCbcJaIjltNpUt4S8shqO123UuB6CY0DDr19dcwI" style="color: #0e1318; text-decoration: none" target="_blank"><span style="color: #0e1318; text-decoration: none">
+                                              <img alt="Canva" height="auto" src="https://braze-images.com/appboy/communication/assets/image_assets/images/63a101405133236aa0b76b77/original.png?1671496000" style="border: none; display: block; font-size: 13px; outline: none; text-decoration: none; width: 100%; height: auto" width="80"> </span></a>
+                                        </td>
+                                      <!---->
+                                      <td style="width: 16px" width="16px">&nbsp;</td>
+                                      <td align="right;" class="va-top" style="vertical-align: middle; text-align: right;">
+                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: separate; line-height: 100%; margin: 0;margin-left: auto;" width="auto">
+                                          <tbody>
+                                            <tr>
+                                              <td align="center" bgcolor="#F2F3F5" role="presentation" style="background: #f2f3f5; border-radius: 4px; cursor: auto; mso-padding-alt: 0px; text-decoration: none;" valign="middle">
+                                              <!---->
+                                                <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC21LV1sMuanYeuIrfdoJoSyBvlB3SgwttpH29bDoxsiTZ144by2ZqYuhHNv-iUbcJ2KuGMJwlGdwa1u3fd70TTauXTGNka7qFflwXU6Qvc2-TO0hBt40CqIVygXY68JDzRUwbmqH75ccXNzxbwakuHCD4nrNM0zd1ba72jMMmJhLWTZxBnG7FrZUwnhqyyZuSg0YSQmH-vCtxlXYK0Zqk661/4fk/Pg8RBDFLQXK7vHRh7rZiag/h1/h001.qo70nhXZe628LR6SLXcyIXPWewfLTDll3jxmFhTC6_Y" rel="noopener" style="
+                                                    background: #f2f3f5;
+                                                    border-radius: 4px;
+                                                    color: #2f3337;
+                                                    display: inline-block;
+                                                    font-family: 'Open Sans', Arial, sans serif;
+                                                    font-size: 14px;
+                                                    font-weight: 600;
+                                                    line-height: 160%;
+                                                    margin: 0;
+                                                    mso-padding-alt: 0px;
+                                                    padding: 9px 16px;
+                                                    text-decoration: none;
+                                                    text-transform: none;
+                                                    letter-spacing: 0.005em;
+                                                  " target="_blank">
+                                                  <!--[if mso]>
+                                                    <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt"></i>
+                                                  <![endif]-->
+                                                  <span style="mso-text-raise: 15pt;">Design with Canva</span>
+                                                  <!--[if mso]>
+                                                    <i style="letter-spacing: 25px; mso-font-width: -100%"></i>
+                                                  <![endif]-->
+                                                </a>
+                                              <!---->
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td class="wrapper-margin" width="48">&nbsp;</td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left" style="font-size: 0px; padding: 0; word-break: break-word">
+                            <table border="0" cellpadding="0" cellspacing="0" style="color: #000000; font-family: Helvetica, Arial, sans-serif; font-size: 13px; line-height: 22px; table-layout: auto; width: 100%" width="100%">
+                              <tr>
+                                <td class="h-24" height="44" style="height: 44px">&nbsp;</td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]>
+         </td></tr></table>
+         <![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <!--[if mso | IE]>
+         </td></tr></table>
+         <![endif]-->
+</div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table>
+<table class="row row-2" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#edf0f2;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:middle"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:'Open Sans',Arial,Sans-serif;text-align:center" align="center">
+<!---->
+<table border="0" cellpadding="0" cellspacing="0" style="color:#0d1216;table-layout:auto;width:100%;background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td class="wrapper-margin" width="48">&nbsp;</td>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" style="color:#0d1216;width:100%;" width="100%">
+        <tr>
+          <td style="padding-top: 24px; padding-bottom: 12px;">
+            <div class="font-36" style="margin: 0; color: #0d1216; direction: ltr; font-family: Open Sans, Arial, Sans-serif; font-size: 42px; font-weight: 400; letter-spacing: normal; line-height: 44px; text-align: left; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 44px; letter-spacing: -1px;">
+              <!---->
+              <span style="word-break: break-word">
+You wish it, we launch it.<br>Discover them all here.
+</span>
+<span style="display: inline-block; background-color: rgba(19, 163, 181, 0.15); padding-left: 4px; padding-right: 4px; border-right: 3px solid #0BA84A;">
+</span>
+              <!---->
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td class="wrapper-margin" width="48">&nbsp;</td>
+  </tr>
+</table>
+<!---->
+<table border="0" cellpadding="0" cellspacing="0" style="color:#0d1216;table-layout:auto;width:100%;background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td style="padding-top: 16px; padding-bottom: 16px;">
+      <table border="0" cellpadding="0" cellspacing="0" class="full-width-mobile" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+        <tbody>
+          <tr>
+            <td class="full-width-mobile" style="width:600px;"><a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9m2krs8T3u4zNwdVv54cy53m_01BeVDM5nIl3fJ5mLf9kS1HqvEx_DCHpb5oyCNpLXvNfgYGWwhcDCwUlcC4lcIs7hCzN0c10w_nut6oa5a8Oj3tYGnkyglgiDp2ilDNJbiJSSmJa1fm6JTOS0rj-spwAcbhpciXXWxSkkEK1oiXUsYAk0bHWm3-dNgRGHzJ3v6a1rz7FzazFBuv9czKJ4lzyxbiEF6nXUtcQyIukf2fMqYTmhLHmwUyEiAg9Dlmfw/4fk/Pg8RBDFLQXK7vHRh7rZiag/h2/h001.sp3wlS9YDF14RA3gHZSDqncG-iKuO7czSjNOCUBFk04" style="color:#0E1318;text-decoration:none;" target="_blank"><span style="color:#0E1318;text-decoration:none;"><img alt="" data-visual-id="image" height="auto" src="https://content-management-files.canva.com/9ea9fd9c-50eb-4eb4-b393-8511498226f2/CARC25001_Lifecycle_Wave7_KeynoteRecap_1.1_en.png" style="border:none;display:block;font-size:13px;outline:none;text-decoration:none;width:100%;" title="" width="600"></span></a></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
+<!---->
+<table border="0" cellpadding="0" cellspacing="0" style="color:#0d1216;table-layout:auto;width:100%;background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td class="wrapper-margin" width="48">&nbsp;</td>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" style="color:#0d1216;width:100%;" width="100%">
+        <tr>
+          <td style="padding-top: 12px;padding-bottom: 12px;">
+            <div style="color: #2f3337; direction: ltr; font-family: Open Sans, Arial, Sans-serif; font-size: 14px; font-weight: 400; letter-spacing: 0; line-height: 150%; text-align: left; mso-line-height-alt: 21px">
+
+              Productivity, meet creativity. Catch the keynote recording and meet Canva’s Visual Suite 2.0 with game-changing new features. Discover Canva Sheets, AI-powered tools, and experience your entire workflow in one place. You’re in for some big names, big launches, and a big musical finish. Get ready to be wowed by our biggest launch yet.
+            </div>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" style="color:#0d1216;width:100%;" width="100%">
+        <tr>
+          <td style="padding-top: 12px;padding-bottom: 24px;">
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;" class="w-full">
+              <tr>
+                <td align="center" bgcolor="#8B3DFF" role="presentation" style="background:#8B3DFF;border:none;border-radius:4px;cursor:auto;mso-padding-alt:9px 16px;" valign="middle">
+                  <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9m2krs8T3u4zNwdVv54cy503rdCMocb7SeQNDvIOwJWOGvfsXWTwIHu_RfgVmSZQjjxOBXnHyv6ksdeDWt-Vv7SzTeliWcH_RKA6ydTzRTCPbi7Ataw-VYs2KTRBX9bxDMmKjUiGmc-HImYV7oym2DZozgNinsTsBmveb7dE1L06CvJqTrdgsZXlkgE5FmQ9ZEXe3o5-JSjSwsrmCBp_2ldwQStsOTFKE8W38eTvhvbcpUu3ZsC6Xe8yxhxc1xzaQA/4fk/Pg8RBDFLQXK7vHRh7rZiag/h3/h001.-tw9uNdRJnYXW9mnHmg1Ma-GDJORvhaoR837NUVfuOU" class="dys-button-a" data-visual-id="cta" style="background:#8B3DFF;border-radius:4px;color:#ffffff;display:block;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:600;line-height:160%;margin:0;mso-padding-alt:0px;padding:9px 16px;text-decoration:none;text-transform:none;" target="_blank">
+                    Watch the keynote
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td class="wrapper-margin" width="48">&nbsp;</td>
+  </tr>
+</table>
+</div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table>
+<table class="row row-3" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#edf0f2;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:'Open Sans',Arial,Sans-serif;text-align:center" align="center">
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]--><div style="background:#edf0f2;background-color:#edf0f2;margin:0px auto;max-width:600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#edf0f2;background-color:#edf0f2;width:100%"><tbody><tr><td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;">
+<![endif]--><div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%"><tbody><tr><td style="padding:0;vertical-align:top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%"><tr><td align="left" style="font-size:0px;padding:0;word-break:break-word">
+<table border="0" cellpadding="0" cellspacing="0" style="color:#000000;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:22px;table-layout:auto;width:100%" width="100%">
+<tr><td>
+<table class="rounded-none" style="border-radius:0 0 8px 8px;background:#fff;width:100%" width="100%"><tr><td height="32" class="h-24">&nbsp;
+</td></tr></table>
+</td></tr>
+<tr><td class="h-1" height="24"> <img alt="" height="1" src="http://braze-images.com/spacer.gif" style="width:1px;height:1px;display:block;border:none;outline:none" width="1">
+</td></tr>
+<tr><td>
+<table class="rounded-none" style="border-radius:8px 8px 0 0;background:#fff;width:100%" width="100%"><tr><td height="32" class="h-24">&nbsp;
+</td></tr></table>
+</td></tr>
+</table>
+</td></tr></table>
+</td></tr></tbody></table>
+</div>
+<!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+</td></tr></tbody></table>
+</div>
+<!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+</div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table>
+<table class="row row-4" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:16px;padding-left:48px;padding-right:48px;padding-top:16px;vertical-align:top">
+<table class="heading_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="text-align:center;width:100%"><h1 style="margin:0;color:#0d1216;direction:ltr;font-family:'Open Sans',Arial,Sans-serif;font-size:32px;font-weight:700;letter-spacing:normal;line-height:1.2;text-align:center;margin-top:0;margin-bottom:0;mso-line-height-alt:38px"><span class="tinyMce-placeholder" style="word-break: break-word;">Huge kudos to our partners</span></h1></td></tr></table>
+<div class="spacer_block block-2" style="height:24px;line-height:24px;font-size:1px"> </div>
+<table class="paragraph_block block-3" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class="pad"><div style="color:#2f3337;direction:ltr;font-family:'Open Sans',Arial,Sans-serif;font-size:14px;font-weight:400;letter-spacing:0;line-height:1.5;text-align:center;mso-line-height-alt:21px"><p style="margin:0">Together we achieved uncharted success at Canva Create 2025!</p></div></td></tr></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<table class="row row-5" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top"><table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad" style="padding-bottom:24px;padding-top:24px;width:100%"><div class="alignment" align="center"><div style="max-width:600px">
+<a href="https://l.engage.canva.com/ss/c/u001.gpWaiPqIFkxKbEja6xTV2LpspyfB8cjWvOeC_gx0bqFHtdE0xoVBTVDMVFdsGjFQvBc44a9NdF13AEtgaxCdkh4JBeJX2KScBEAFVBQm334hbgLTcjC4ShEuhvPlZvK8zaMy3Lhg50OTs2R_a7FvRZkqLDgn7r3IDxjvQIBNFoDedx9KAMP-_ljKivOVDraEe7wLB_62-8JYHnIfm9QlBYhRvCV7AfQ0r0Y8yHBD2Xn0bUKCWSxQ4bGrcw3GS1lvzhcoLblDFpysQBvulBQhurk57FBFmQFkPljvnGa5dquJXeCK25bMky2Uq1mF9xHa/4fk/Pg8RBDFLQXK7vHRh7rZiag/h4/h001.FzE1fwFxA5aDMZrQma70ToEDZak-cb2aHbGh_0FHMtg" target="_blank" style="outline:none" tabindex="-1"><img src="https://braze-images.com/appboy/communication/assets/image_assets/images/67f4bc6792676f006551fecb/original.jpg?1744092262" style="display:block;height:auto;border:0;width:100%" width="600" alt="Canva Create 2025 partners" title="Canva Create 2025 partners" height="auto"></a>
+</div></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table>
+<table class="row row-6" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#edf0f2;color:#000;width:600px;margin:0 auto" width="600"><tbody><tr><td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top"><table class="html_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0"><tr><td class="pad"><div style="font-family:'Open Sans',Arial,Sans-serif;text-align:center" align="center">
+<!--
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]--><div style="margin:0px auto;max-width:600px;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;"><tbody><tr><td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;">
+<![endif]--><div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%"><tbody><tr><td style="padding:0;vertical-align:top;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+ <tr><td align="left" style="font-size:0px;padding:0;word-break:break-word;"><table border="0" cellpadding="0" cellspacing="0" style="color:#000000;font-family:Helvetica, Arial, sans-serif;font-size:13px;line-height:22px;table-layout:auto;width:100%;" width="100%">
+ <tr>
+ <td colspan="3">
+ <table cellpadding="0" cellspacing="0" class="border-radius-for-large" style="border-radius: 0 0 8px 8px; background: #ffffff; width: 100%">
+ <tr>
+ <td height="36">&nbsp;</td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td colspan="3">
+<!-- class='footer-bg-mobile' -->
+ <div style="background-color: #edf0f2">
+ <table border="0" cellpadding="0" cellspacing="0" style="color:#000000;font-family:Helvetica, Arial, sans-serif;font-size:13px;line-height:22px;table-layout:auto;width:100%;" width="100%">
+ <tr>
+ <td height="24" colspan="3">&nbsp;</td>
+ </tr>
+ <tr>
+ <td width="24">&nbsp;</td>
+ <td>
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;line-height:160%;text-align:center;">You are receiving this email because you signed up to Canva.</div> 
+ </td>
+ <td width="24">&nbsp;</td>
+ </tr>
+ <tr>
+ <td colspan="3" height="24" style="border-bottom: 1px solid #DDE1E3">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="24" colspan="3">&nbsp;</td>
+ </tr>
+ <tr>
+ <td colspan="3">
+ <table align="center" cellpadding="0" cellspacing="0" class="mobile_hide" width="auto">
+ <tr valign="middle">
+ <td valign="middle">
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:400;line-height:160%;text-align:center;">Get Canva for:</div>
+ </td>
+ <td style="width: 10px;" width="10px"></td>
+ <td valign="middle">
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:400;line-height:160%;text-align:center; text-decoration:underline;">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxLgs9vh3ZG1hackcgEGHMf_ZInavAeHw-2w8aTvdtafx1xfkDDKTGDookFm5aZELkr7iFeHn9ch6NVK21RbCcsX-qDyawXchVK8H5jaRypf27tQdririY5Tm__e8mzwvk-x-5DqY7j7Dm6VavKd68MikpSq195-QdrAxB53zrvBYxiFuxWol0iN9ug-X1n_8gIis3bS0XAEdFcQLxo-nb-oiRAds8v0o-GpSop8hAH3kA/4fk/Pg8RBDFLQXK7vHRh7rZiag/h5/h001.zuZNMfbuWKKGHhhAD9YFcWYn8Ya-GZKwZ9mrMn9lYcs" style="color: #2c3135; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%text-decoration:underline;"><span style="color:#2c3135;">iPhone</span></a>
+ </div>
+ </td>
+ <td style="width: 10px;" width="10px"></td>
+ <td style="background-color: #e1e5e9; width: 1px;" width="1px"></td>
+ <td style="width: 10px;" width="10px"></td>
+ <td valign="middle">
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:400;line-height:160%;text-align:center; text-decoration:underline;">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxIWRihpSIiPzYx0Gcu-sghxAhdha4Y9ka5H3uFf2fLi-lkjr3Y1Bf_AyJUyD190SADew8orGaahoyniPfMBclGmbbB0_6BSGf3ZXFNSEviALtuT7JC20IIng9xP4hN5aAY5qnjBMrjsJ6oLM_t4LyEXNYcjq-iQIu-NQWSN2iGcIrmShsOQUiWLIWmUfIjkC7qEEXq6nbVckvyPxjuZrRmvyxCcVIsoeHnZvX1Tqwy0ow/4fk/Pg8RBDFLQXK7vHRh7rZiag/h6/h001.0QwQohcazravXa9qnbLMgcB0JFDawX0Va2YXd_oBmgQ" style="color: #2c3135; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%text-decoration:underline;"><span style="color:#2c3135;">iPad</span></a>
+ </div>
+ </td>
+ <td style="width: 10px;" width="10px"></td>
+ <td style="background-color: #e1e5e9; width: 1px;" width="1px"></td>
+ <td style="width: 10px;" width="10px"></td>
+ <td valign="middle">
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:400;line-height:160%;text-align:center; text-decoration:underline;">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxJ0huWxsBizj11xBs5Tf8pzF44gkki3j4cOxboDtxtyjHeQD9mrvr54XUXsMNaJjNJftdBYyqtaovcMiNQ3AXHCs0m-eK2eDVxlQl3Qo2mhLSCOPetHsppF4m6slALWgFek31IrXyqvH6HIbCVu2QwdBr9uv-tEY_Fbqxxh3t5nlaal7DJsMBuYDusjb_yo2hXXFM6QvrMKW2LV5o-1-iW7TV95G964TI7kAEz0TgHIEQ/4fk/Pg8RBDFLQXK7vHRh7rZiag/h7/h001.y0QnzDWQjCXoTQxCzKNEPVZIAihKPcv2BtHmRmRt_XY" style="color: #2c3135; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%text-decoration:underline;"><span style="color:#2c3135;">Android</span></a>
+ </div>
+ </td>
+ <td style="width: 10px;" width="10px"></td>
+ <td style="background-color: #e1e5e9; width: 1px;" width="1px"></td>
+ <td style="width: 10px;" width="10px"></td>
+ <td valign="middle">
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:400;line-height:160%;text-align:center; text-decoration:underline;">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxLREEATUVU05IcQvBHEloGnmh_mRDgCE2Yx3McRt60C9Yo0paP-BCyfABcUVXh40F1yrrhkaBxXq9viZFjZEK9O-Sv1Ik5VKL_NyK8dMPiMLDjBEE3xaoKxEXWPH6_MSYhXlNoUBjXbta_nnrg3hfGHVMGPhqH42TfUTbbGRwClcdwzILq4dDv97wQlvXF91tAwiiMUObLlaa6vsqEJ4XZo2maj7s6zJPdvxCZkxFl_Rw/4fk/Pg8RBDFLQXK7vHRh7rZiag/h8/h001.3mUF9JBv7Tlx-3HtBkTq0dWfzKVNr1Ii65ml4G8Mf3E" style="color: #2c3135; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%text-decoration:underline;"><span style="color:#2c3135;">Mac</span></a>
+ </div>
+ </td>
+ <td style="width: 10px;" width="10px"></td>
+ <td style="background-color: #e1e5e9; width: 1px;" width="1px"></td>
+ <td style="width: 10px;" width="10px"></td>
+ <td valign="middle">
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:400;line-height:160%;text-align:center; text-decoration:underline;">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxIgwxa6pVAlidlWdrQ6dk-MZdG-tCmFSpZYcuyA-xOJqNuxwmSlRlfF_nS0SeuxdqUGEY6eaJLngcgpnakaDVahCb4B8PbLeh0XJkAeh4ofOdnFUKgbC7mx20TYP-tsRBE4RR4SXhOme-x_nZKK82ige5qRBfogjwHPPTbhkIhRFqHFQgHHKberGA7EuckqjPleKpbLuQg7gZ03CHMGzsZNnmDhql3v97Bz3g9xvRcQVA/4fk/Pg8RBDFLQXK7vHRh7rZiag/h9/h001.QPDOJ4XIxIioqswnITueDyVyh9nwYbZIxQdmOt5KwIU" style="color: #2c3135; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%; text-align: centertext-decoration:underline;"><span style="color:#2c3135;">Windows</span></a>
+ </div>
+ </td>
+ </tr>
+ </table>
+ <table align="center" cellpadding="0" cellspacing="0" class="desktop_hide" width="auto">
+ <tr>
+ <th>
+ <table align="center" cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+ <th style="padding-bottom: 8px;">
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;font-weight:400;line-height:160%;text-align:center;">Download the Canva app</div>
+ </th>
+ </tr>
+ </table> 
+ <table align="center" cellpadding="0" cellspacing="0" width="auto">
+ <tr>
+ <th>
+ <a href="https://l.engage.canva.com/uni/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC205WAev8EVVU8aSFGkixHMSHNBFz2Wbzleet6Cv4DSh3l_gyrIQWpNyJqsMM5WfZZaeInmJ9uYbxkKZVYWzNdlrfwW3sUKrm6ZL9ke_cuRIJK8QXYeW1Tdub9NDdB4bSne0faNMU0lIP6_mK-BMPdPLoGr5Gn6FV39GvEeujvC05i1LAW9_DatkZClt8kGLWI8hpQcckXN1miolmwf1nFl5/4fk/Pg8RBDFLQXK7vHRh7rZiag/h10/h001.76gnR3fsIg0su8_v7Yj8hv50cUgQXRtav6mjKKWxFgI" universal="true" style="color: #2c3135; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%text-decoration:underline;"><span style="color:#2c3135;"><img alt="app store" height="38" src="https://braze-images.com/appboy/communication/assets/image_assets/images/62de020f5e33394d45222a2b/original.png?1658716687" style="display: block; width: 129px; height: 38px;" width="129"></span></a>
+ </th>
+ <th width="12px"></th>
+ <th>
+ <a href="https://l.engage.canva.com/uni/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC23AeQ5xvrbuAKZ-r9Rng50UWkjZeTUDmoa1ms8yYnRNpg8RoMIj1R7MOp8n9JqU7PxPDzmbi6xV4m31V9764rsfsCoHXmb51esqmTlgYU_YYdOWtwMcJtro5WWb1iwyBPQjWK9qasiax96KUsqN0t1igbCkKWctQXdhZQOrI3zsmQDp4SOWtO-3r9CFta6wzhEWmgXpiM09CoAOvyklV05U/4fk/Pg8RBDFLQXK7vHRh7rZiag/h11/h001.3MAJlpKBTLDs1d3mlTPAopzmH2imoECEq820duK53yM" universal="true" style="color: #2c3135; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%text-decoration:underline;"><span style="color:#2c3135;"><img alt="google play" height="38" src="https://braze-images.com/appboy/communication/assets/image_assets/images/62de020fef2b102f48236331/original.png?1658716687" style="display: block; width: 127px; height: 38px;" width="127"></span></a> 
+ </th>
+ </tr>
+ </table> 
+ </th>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td colspan="3" height="24" style="border-bottom: 1px solid #DDE1E3">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="24" colspan="3">&nbsp;</td>
+ </tr>
+ <tr>
+ <td width="24">&nbsp;</td>
+ <td>
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;line-height:160%;text-align:center;">
+ 
+ <span>Made for you with&nbsp;<img alt='love' height='14' src='https://braze-images.com/appboy/communication/assets/image_assets/images/62dde73399539f763df89c34/original.png?1658709811' style='transform: translateY(2px); width: 14px; height: 14px;' width='14' />&nbsp;from Canva</span> <br>
+ <span>Canva Pty Ltd</span>, <span>110 Kippax St, NSW 2010, Australia</span>. <span>ABN 80 158 929 938</span><br> 
+ <span>If you need assistance, get in touch with us via our <a href='https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9koHec2e2LlCYgohCOBBuqE1-HDgjc4giVgVN9vTl2sa/4fk/Pg8RBDFLQXK7vHRh7rZiag/h12/h001.iOxSiHaJw-6DJrtqz-d_l65h4SOUzaGGOshoeDvl2vE' style='color: #565a5d;  font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%'>Help Center</a>.</span>
+ </div>
+ </td>
+ <td width="24">&nbsp;</td>
+ </tr>
+ <tr>
+ <td colspan="3" style="padding-top: 4px;">
+ <table align="center" cellpadding="0" cellspacing="0" width="auto">
+ <tr>
+ <td>
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;line-height:160%;text-align:center;">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC21ZvmPnAP3CuZowLQd93uOvOCqtdftIxQbYXRy07nuRXra5Zji6BLvASySAnNmFzSaXOsAhykBGYcFrJW3hfJMMm24tU4RfhWHIn6CLDZ6g_n1BrO9ZrTfx5VBJbZkWDSmTAYTPAiMQui2EieatvxG2pp1OLr0OvBC1AjNFlaVii8I__c-hbgTWn97ZA3UMKPx7cpXziKmTR3SA6IngwvvF/4fk/Pg8RBDFLQXK7vHRh7rZiag/h13/h001.VCHvCSsdWkfB9uBM7IcmfK0BJbVYPTVDetPh2ASJQqE" style="color: #515559; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%;text-decoration:underline;"><span style="color:#515559;">Visit canva.com</span></a>
+ </div>
+ </td>
+ <td style="width: 16px;" width="16px"></td>
+ <td>
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;line-height:160%;text-align:center;">
+ <a href="https://l.engage.canva.com/ss/c/u001.JArFo7LeP-8OYD3Jv5wfvQo5nNUGyHE4_827Ez4zVFQc6G1BnrVsh12rUWXVadM2A7M8F-fxwAwbGdXWMCG-JMJGnCVEgIva0gDOKOnNqxGwsfGSLZSYrsMLB15DOs87FgLEmS8rE1NFTFaXSktXCtY2D_Fu8aeNcMSQcrgbIowJBy_M4raIAUuJ6Pi-mK7oe1Gn6GJChPhWz3FihGLU7wzTV6g54xva9wKyzPT4nBLRsOQ6StUA2hV-lRwtjlPlgQtsctJZXrHo6aisbjZxTB1Qmmu1GxmweNVBEwmibKjPMI6Q-dGzc-xXtBFS4LQEkX4EMaMpO35Z9bWOKSx0wjQE_xxZsa96R3WzJRQaq248_UqTaLu2v0ffeM3cIRJCxLMXz-nlXi3DEoUDIKcyCVFFHfGI3gnYJlblfDLbnIoVF9SbNbncRm1J05rMp621D7gFNaoysA2C268sZ7lZn3UMYD2o2MbSah4yJBxAqoSPTdkQH86LmMlUouT5JH_l5FDd9kzfj0tsP9k59cbYWNv55rVaop6OF5vd0aRbakTfGHu--XX4M6rFiUgT7XwYOm5RkNVsFx7ZTrgvAj4TTv49djhdE2PMOOGD40XSr95ZKdaPAu6mXmLWfs83oTW9ZMZuv1lVcgp4zb7JayOS7bxnlBOC0dLwPpv7pMLQu6m9UI_qoHSYXWsH7-w05W6A/4fk/Pg8RBDFLQXK7vHRh7rZiag/h14/h001.Pzt-UCojUUpNGFighD06Ss32TKWX_KtSC7zUeXqfrNA" style="color: #515559; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%;text-decoration:underline;"><span style="color:#515559;">Unsubscribe</span></a>
+ </div>
+ </td>
+ </tr>
+ </table>
+ 
+ <table align="center" cellpadding="0" cellspacing="0" width="auto">
+ <tr>
+ <td>
+ <div style="color:#515559;font-family:Open Sans, Helvetica, Arial, sans serif;font-size:14px;line-height:160%;text-align:center;">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9t1o6OOPWBTK2sz3h-0nOIbQyLvBmKKHsNPdhh_PATD2NQJeXMLJaB2EtH2m2BrrDBKVjAL0hfxE60iB2JfZOHj1Gf1nqsgJF_rnjWvhdHpzWpQnJdaB-fm9d_R0YqGV0o3dyZDCG44qBxPpSXOgu-3qNJgHgmg9bghoQoLJY13vumly7vvzFnzbOACPO-L-TuhnnDYY025kDn9W7-JmmJRjGvxVxGOi9un5mtsrLGPOoggSsx1wVqsE93tbSZZbaM-ftF2xUKVhsfaW72k2bts/4fk/Pg8RBDFLQXK7vHRh7rZiag/h15/h001.6FTCxyMzTYo6KrXpzpz0wRXolo99Iybw3VWbtIA6nUA" style="color: #565a5d; font-family: Open Sans, Helvetica, Arial, sans serif; font-size: 14px; font-weight: 400; line-height: 160%; text-align: center;text-decoration:underline;"><span style="color:#565a5d;">Message Preferences</span></a>
+ </div>
+ </td>
+ 
+ </tr>
+ </table> 
+ 
+ </td>
+ </tr>
+ <tr>
+ <td height="16"></td>
+ </tr>
+ <tr>
+ <td align="center" colspan="3">
+ <table border="0" cellpadding="0" cellspacing="0" style="color:#000000;font-family:Helvetica, Arial, sans-serif;font-size:13px;line-height:22px;table-layout:auto;width:144px;" width="144">
+ <tr>
+ <td style="width: 24px;" width="24px">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9j0BmJ_K3iBo2XW6cJQznU2n_pIscVU3BcihDdkoVgtC_arzTJD3aWGjhzSBwG0_GCqa0L1b0o0aW7KzZdZEytrt8zvbRLgVyeFsVmnCSdGpMgD-FI4IKrNiU6hPAJByxe7UVgV7TyD7wHVFesw1vldOrxXBvJzys5UMpm_AqJNT2dDwRtF5LlxA5gBEb7X7Xa6M0AtayQhUUB3ch-w1o7X2BFqt9DfED-t9uhSPCwUO3d2Br0ivdRIrbT3FMThdCg/4fk/Pg8RBDFLQXK7vHRh7rZiag/h16/h001.20K5JWX0VMKMH26hAHbc6COYMyEVO3DmU_7B2CJ4nP0" style="line-height: 0; display: blockcolor:#0E1318;text-decoration:underline;"><span style="text-decoration:underline;">
+ <img alt="facebook" src="https://braze-images.com/appboy/communication/assets/image_assets/images/667131cfeafa420059574801/original.png?1718694350" style="display: block; width: 24px; height: 24px;">
+ </span></a>
+ </td>
+ <td style="width: 16px;" width="16px"></td>
+ <td style="width: 24px;" width="24px">
+ <a href="https://l.engage.canva.com/ss/c/u001.A0R9ivDp7nMTirpND5087t0uAJgwkPURDFaEeypv9IxnNiL3YCYognyr3GX2MNa5g-I0lSdoVRNsLYyIj-Mve-T2lVQ4MF-mYb6puq77antxUwocaGkcQhrt3d1peP4Dv679PhFA9lLNJqOSdmXjhR4fZMaG1C08h_vHoL4aFC40RoUwb_bokX1OZqH--jp60km_B9Li6ga__vdsdo3Auf0I3w_FszfLX3pTJmmuyYwZHxWxoRwLYyb2DQnk79D6/4fk/Pg8RBDFLQXK7vHRh7rZiag/h17/h001.WP2BTYCZB0i0YRTO-nd9uVCF9_dzAL1tGBuLCd4oeNs" style="line-height: 0; display: blockcolor:#0E1318;text-decoration:underline;"><span style="text-decoration:underline;">
+ <img alt="x" src="https://braze-images.com/appboy/communication/assets/image_assets/images/668e0678c1885a00630cd3c5/original.png?1720583800" style="display: block; width: 24px; height: 24px;">
+ </span></a>
+ </td>
+ <td style="width: 16px;" width="16px"></td>
+ <td style="width: 24px;" width="24px">
+ <a href="https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9pePWUsjBCA39SYanfHwG9YhgSRR9KA2dRSGlC0YH725SPsJjh000mfPyeDKNTp2FLaZEb-wYnd1t_oCjrtYFVwQxoCr41vbdgFcik47kfvw9bQfrbtX5lb8X9znAbiaib8EOq3-eob9gcnZ97psPESQnr3x981fnAL0b1LnWjnpEKkmT2gBCazTVwBf0r7ZNl3YkAAqrX_kTj_dXqlol2I39a213lkjT2JkiC4vusc9xFmLvQ75b96swMIuY9i1bw/4fk/Pg8RBDFLQXK7vHRh7rZiag/h18/h001.G5w98I8fJa6JD7WIdObtEA4uyq_8jdu6a0fosycbW4Q" style="line-height: 0; display: blockcolor:#0E1318;text-decoration:underline;"><span style="text-decoration:underline;">
+ <img alt="pinterest" src="https://braze-images.com/appboy/communication/assets/image_assets/images/667131cf73b4d70059488502/original.png?1718694350" style="display: block; width: 24px; height: 24px;">
+ </span></a>
+ </td>
+ <td style="width: 16px;" width="16px"></td>
+ <td style="width: 24px;" width="24px">
+ <a href="https://l.engage.canva.com/ss/c/u001.wkwfS08RYRjEtO3m2n_PfMIXhnxcvSbXh0yODKywel1aeFXH3ohfSi5-148xaxx_YEcKZ9zwptYej7l52XbOL20mgYQjiiBMBIPP_SsSIZRNPyRMycaiy5sujGAnZwGcH6rim2Nei3tPkgrJEUBg6BnWXtFOmGU3iIvozr7dTZyC6jNA9b1uHGbwt9gBAH5YcpNrxxH9wst7lUGRW6rNgvo1yL3A7IMLh3tN8xsZJ4SRma9Fgg5MkFVYFGRijHhG/4fk/Pg8RBDFLQXK7vHRh7rZiag/h19/h001.Ow90QrMwEHo8BxwBfBOxhHGLO7GcrGFiQj-TzWGBFeA" style="line-height: 0; display: blockcolor:#0E1318;text-decoration:underline;"><span style="text-decoration:underline;">
+ <img alt="instagram" src="https://braze-images.com/appboy/communication/assets/image_assets/images/667131cf1e78a400581142b7/original.png?1718694350" style="display: block; width: 24px; height: 24px;">
+ </span></a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td height="48px"></td>
+ </tr>
+ </table>
+ </div>
+ </td>
+ </tr>
+ </table></td></tr>
+ </table></td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+</div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- End -->
+<img src="https://l.engage.canva.com/ss/o/u001.PFkhS6zghJKXhjpIJq9gQw/4fk/Pg8RBDFLQXK7vHRh7rZiag/ho.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>

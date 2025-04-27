@@ -1,0 +1,58 @@
+From: "Heroku" <no-reply@heroku.com>
+Subject: Learn to Build and Deploy Apps with Trailhead
+
+Discover App Building and Deployment on Trailhead ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+View this email in your browser: [https://hello.heroku.com/webmail/36622/1295194855/2569c4f8283aa811d77f55dc97ede30567f6a73b3a30b1eddebd77dc12895062]
+
+
+
+logo: [https://hello.heroku.com/e/36622/2024-09-09/m6b521/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k] 
+
+Hi thomas, 
+
+Getting started with a new platform can be daunting, but having the right resources makes those initial experiences so much easier. 
+
+Luckily, you have access to Heroku resources through Trailhead, the fun and interactive learning platform from Salesforce. It's the perfect way to build your skills and confidence before deploying your app on Heroku. 
+
+How Trailhead Can Help You Understand Heroku
+
+Guided Learning : Trailhead offers step-by-step trails and modules that teach you the fundamentals of app development and cloud technologies. Hands-On Projects : Put your new skills into practice with interactive challenges and projects. Gamified Experience : Earn points, badges, and super badges as you complete modules. It makes learning fun and rewarding. Free and Accessible : Trailhead is open to everyone, so you can learn at your own pace and on your own time. 
+
+Get Started with Heroku on Trailhead
+
+Develop Apps with Heroku Trail: [https://hello.heroku.com/e/36622/ent-trail-id-heroku-enterprise/m6b524/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k] : Learn how to build and deploy apps on Heroku using your favorite programming languages and frameworks. Heroku Enterprise Basics: [https://hello.heroku.com/e/36622/dules-heroku-enterprise-baiscs/m6b527/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k] : Explore the key features of Heroku Enterprise and how it can be beneficial to your business. 
+
+Once you've completed these trails, you'll be well-equipped to deploy your app on Heroku and take advantage of all its powerful features. 
+
+If you have any questions or need further assistance, don't hesitate to contact our support team: [https://hello.heroku.com/e/36622/contact/m6b52b/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k] . 
+
+Happy learning! 
+
+The Heroku Team
+
+
+
+https://hello.heroku.com/e/36622/company-heroku-/m6b52f/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k
+
+https://hello.heroku.com/e/36622/heroku/m6b52j/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k
+
+https://hello.heroku.com/e/36622/r-Heroku-/m6b53x/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k
+
+https://hello.heroku.com/e/36622/2024-09-09/m6b541/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k
+
+https://hello.heroku.com/e/36622/c-herokuofficial/m6b544/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k
+
+
+Heroku, a Salesforce company
+ 415 Mission Street, 3rd Floor
+San Francisco, CA 94105
+
+
+
+
+Contact Us: [https://hello.heroku.com/e/36622/contact/m6b52b/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k] | Privacy Policy: [https://hello.heroku.com/e/36622/4zLjAuMTcxMjA5Mjg5OS4wLjAuMA--/m6b52m/1295194855/h/EXqyZOt_zJCtZ1G8yaYUxkiRfVR1bFnmrrQEnUsVS8k]
+
+
+
+Manage Preferences: https://hello.heroku.com/KeepMeuptoDate?ehash=2569c4f8283aa811d77f55dc97ede30567f6a73b3a30b1eddebd77dc12895062&email_id=1295194855&epc_hash=rWTqj2HFXr9mI3EW5Q9MI7qTX1xepA9_Pj2EZ8GcpfY
