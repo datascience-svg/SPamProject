@@ -34,19 +34,19 @@ Créer un système complet capable de :
 
 -Compte Microsoft avec Office installé (version supportant les compléments)
 
-## 1. Cloner le projet
+### 1. Cloner le projet
 
 ```bash
 git clone https://github.com/datascience-svg/SPAMPROJECT.git
 cd SPAMPROJECT
 
-## 2.Utiliser le filtre Streamlit localement
+### 2.Utiliser le filtre Streamlit localement
 
 cd filtre
 pip install -r requirements.txt
 streamlit run app.py
 
-## 3.Lancer le backend API (FastAPI)
+### 3.Lancer le backend API (FastAPI)
 NB: pour les prerequis il est important d'avoir outlook classic installé dans dans pc 
 
 cd SPamAPI
@@ -58,7 +58,7 @@ SPamAPI/.streamlit/secrets.toml
 - Son mot de passe d'application (pas son vrai mot de passe Gmail !).
 uvicorn api:app --reload --port 8000
 
-## 4.Lancer le plugin Outlook
+### 4.Lancer le plugin Outlook
 
 cd SPamPlugin
 npm install
